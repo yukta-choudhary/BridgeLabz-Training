@@ -9,6 +9,6 @@ public class CalculateAge{
         ageHarry = currentYear - birthYearHarry;
 
         // Print the age of Harry
-        System.out.println("Age of Harry is " + ageHarry);
+        System.out.println("Harry's age in 2024 is" + ageHarry);
     }
 }
