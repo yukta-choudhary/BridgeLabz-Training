@@ -1,6 +1,6 @@
 // This program calculate average percentage of marks secured by Sam in physics, chemistry and maths.
 
-class AveragePercent{
+public class AveragePercent{
     public static void main(String[] args){
         // Create variable physicsMarks, chemMarks, mathsMarks and avgPercent
         int physicsMarks = 95, chemMarks = 96, mathsMarks = 94;
