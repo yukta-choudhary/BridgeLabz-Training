@@ -1,4 +1,4 @@
-// This program converts kilometers to miles
+// This program calculates profit and profit percentage
 
 public class ProfitPercentage{
     public static void main(String[] args){
@@ -11,7 +11,7 @@ public class ProfitPercentage{
         profit = sellingPrice - costPrice;
 	profitPercent = ((double)profit/(double)costPrice) * (double)100;
 
-        // Print miles
+        // Print profit, profitPercent, costPrice and sellingPrice
         System.out.println("The Cost Price is INR " + costPrice + "  and Selling Price is INR  " + sellingPrice + "\nThe Profit is INR " + profit + " and the Profit Percentage is " + profitPercent);
     }
 }
