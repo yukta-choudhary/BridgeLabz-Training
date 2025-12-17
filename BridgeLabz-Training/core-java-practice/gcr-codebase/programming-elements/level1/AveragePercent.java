@@ -10,6 +10,6 @@ public class AveragePercent{
         avgPercent = ((double)(physicsMarks + chemMarks + mathsMarks)/(double)300) * 100;
 
         // Print Average Percentage
-        System.out.println("Average Percentage of Sam is " + avgPercent);
+        System.out.println("Sam’s average mark in PCM is " + avgPercent);
     }
 }
