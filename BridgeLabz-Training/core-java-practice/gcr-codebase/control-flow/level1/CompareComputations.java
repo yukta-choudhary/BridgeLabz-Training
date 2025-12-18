@@ -21,7 +21,7 @@ public class CompareComputations{
 					sumWhile = sumWhile + i;
 					i = i - 1;
 			}			
-			System.out.println("The sum from while loop and formulae is same? " + (sumWhile == sumFormulae) + "The sum is " + sumWhile);
+			System.out.println("The sum from while loop and formulae is same? " + (sumWhile == sumFormulae) + ". The sum is " + sumWhile);
 			
 		}else{
 			System.out.println("The number is " + number + "not a Natural Number");
