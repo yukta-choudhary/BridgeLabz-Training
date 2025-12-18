@@ -20,5 +20,6 @@ public class CalculateHeight{
 
         // Print height in feet and inches
         System.out.println(" Your Height in cm is " + heightCm + " while in feet is " + heightFeet + " and inches is " + heightInch);
+        input.close();
     }
 }
