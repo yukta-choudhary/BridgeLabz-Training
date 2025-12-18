@@ -20,7 +20,7 @@ public class TotalPrice {
         float totalPrice = unitPrice * quantity;
 
         // Display result
-        System.out.println("The total purchase price is INR " + totalPrice +" if the quantity " + quantity +" and unit price is INR " + unitPrice);
+        System.out.println("The total purchase price is INR  " + totalPrice +" if the quantity " + quantity +" and unit price is INR " + unitPrice);
 
         // Close scanner
         input.close();
