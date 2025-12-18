@@ -8,7 +8,7 @@ public class CheckNaturalNumber{
        //Create object of Scanner
         Scanner input = new Scanner(System.in);
 
-        // Create variable number, sumOfNumbers;
+        // Create variable number, sumOfNumbers
         int number;
 		double sumOfNumbers;
         System.out.print("Enter number:  ");
