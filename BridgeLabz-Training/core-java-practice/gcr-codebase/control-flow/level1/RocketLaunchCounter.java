@@ -14,7 +14,7 @@ public class RocketLaunchCounter{
         counter = input.nextInt();
 		
         // Run a loop for countdown
-        while(counter>=1){
+        while(counter >= 1){
 			System.out.println(counter + "\n");
 			counter = counter - 1;
 		}
