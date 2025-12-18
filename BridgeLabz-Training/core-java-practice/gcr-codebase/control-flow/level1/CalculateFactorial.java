@@ -14,8 +14,10 @@ public class CalculateFactorial{
 		
         // Check if number is positive. If yes then calculate its factorial
         if(number>=0){
-			for(int i = number; i>=1; i--){
-					factorial = factorial * i;
+			int i = number;
+			while(i>=1){
+				factorial = factorial * i;
+				i = i-1;
 			}			
 			System.out.println("The factorial of the number " + number + " is " + factorial);
 			
