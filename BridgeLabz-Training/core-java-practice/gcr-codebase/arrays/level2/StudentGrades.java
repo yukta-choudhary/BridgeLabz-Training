@@ -7,16 +7,16 @@ public class StudentGrades
 		// Create scanner class object
 		Scanner input = new Scanner(System.in);
 		
-		// Declare number of students
+		// Number of students
 		System.out.println("Enter number of students:");
 		int number = input.nextInt();
 		
-		// Declare 2D array for marks and arrays for percentage and grade
+		// 2D array
 		double[][] marks = new double[number][3];
 		double[] percentage = new double[number];
 		String[] grade = new String[number];
 		
-		// Take input for marks
+		// Input marks
 		for(int i = 0; i < number; i++){
 			System.out.println("Enter marks in Physics for student " + (i + 1) + ":");
 			marks[i][0] = input.nextDouble();
@@ -45,25 +45,29 @@ public class StudentGrades
 		// Calculate percentage and grade
 		for(int i = 0; i < number; i++){
 			percentage[i] = (marks[i][0] + marks[i][1] + marks[i][2]) / 3;
-			if(percentage[i] >= 90){
+			
+			if(percentage[i] >= 80){
 				grade[i] = "A";
-			}else if(percentage[i] >= 75){
+			}else if(percentage[i] >= 70){
 				grade[i] = "B";
-			}else if(percentage[i] >= 50){
+			}else if(percentage[i] >= 60){
 				grade[i] = "C";
+			}else if(percentage[i] >= 50){
+				grade[i] = "D";
+			}else if(percentage[i] >= 40){
+				grade[i] = "E";
 			}else{
-				grade[i] = "F";
+				grade[i] = "R";
 			}
 		}
 		
-		// Display marks, percentage and grade
+		// Display results
 		System.out.println("Physics\tChemistry\tMaths\tPercentage\tGrade");
 		for(int i = 0; i < number; i++){
 			System.out.printf("%.2f\t%.2f\t\t%.2f\t%.2f\t\t%s%n",
 					marks[i][0], marks[i][1], marks[i][2], percentage[i], grade[i]);
 		}
 		
-		// Close Scanner
 		input.close();
 	}
 }
