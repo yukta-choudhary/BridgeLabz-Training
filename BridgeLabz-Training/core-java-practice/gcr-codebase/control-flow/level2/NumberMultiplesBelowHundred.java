@@ -14,7 +14,7 @@ public class NumberMultiplesBelowHundred {
 
         // Find numbers below hundred that perfectly divide the number
 		if(number == 0){
-			System.out.println("The greatest factor of " + number + " is 0 ");
+			System.out.println("The multiples of 0 are infinite");
 
 		}
 		else if(number > 0 && number < 100){
