@@ -1,4 +1,4 @@
-// Find the smallest and the largest of the numbers
+// Find the remainder and quotient
 
 import java.util.Scanner;
 
