@@ -16,9 +16,6 @@ public class SpringSeason{
 	
     public static void main(String[] args){
         
-		//Create object of Scanner
-        Scanner input = new Scanner(System.in);
-
         // Create variables
         int month = Integer.parseInt(args[0]);
         int day = Integer.parseInt(args[1]);
@@ -36,8 +33,5 @@ public class SpringSeason{
 			System.out.println("Not a Spring Season.");
 		}
 		
-        //Close Scanner object
-        input.close();
-
     }
 }
