@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BMIMultiDimArray
+public class BMIMultiDimensionsArray
 {
 	public static void main(String[] args)
 	{
