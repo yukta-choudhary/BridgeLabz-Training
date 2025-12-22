@@ -42,10 +42,10 @@ class UpperCaseCompare {
         String text = sc.nextLine();
 
         // Convert text using user defined method
-        String manualUpper = convertToUpperCase(text);
+        String userUpper = convertToUpperCase(text);
 
         // Convert text using toUpperCase() method
-        String builtInUpper = text.toUpperCase();
+        String toUpperCaseUpper = text.toUpperCase();
 
         // Compare both results
         boolean isSame = compareStrings(userUpper, toUpperCaseUpper);
