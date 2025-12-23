@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class StringCompare {
 
 	//Create a method to compare two strings using charAt
-	public static boolean CompareUsingCharAt(String string1, String string2){
+	public static boolean compareUsingCharAt(String string1, String string2){
 		if(string1.length() != string2.length()){
 			return false;
 		}
