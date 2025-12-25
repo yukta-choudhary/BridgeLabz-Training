@@ -106,3 +106,30 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Code committed and pushed to GitHub
 
 ---
+
+### 📅 Day 5 – Java Arrays
+
+(**Date: 19-Dec-2025**)
+
+**Studied the following concepts**
+
+* Java arrays
+* Creating and accessing arrays
+* Using `for` loop with arrays
+* Modifying array elements
+* Using the `length` property
+* Multi-dimensional arrays
+* 2D arrays (Matrix)
+* Accessing and finding size of arrays
+* Using `System.err()` and `System.exit()`
+
+**Code Link:**
+👉 Arrays Practice
+[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/arrays](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/arrays)
+
+**Git Activity:**
+
+* Code committed and pushed to GitHub
+
+---
+
