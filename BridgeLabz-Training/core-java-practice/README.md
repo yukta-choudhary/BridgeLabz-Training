@@ -133,3 +133,36 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 ---
 
+### 📅 Day 6 – Java Methods
+
+(**Date: 20-Dec-2025**)
+
+**Studied and practiced problems on topics:**
+
+* User-defined methods
+* Using methods multiple times
+* Making methods dynamic
+* Recursive methods
+* Static methods
+* Java standard library methods
+* `java.lang.Math` class
+
+**Additional Concepts Discussed:**
+
+* Types of data types
+* Why Java is considered mostly OOP
+* Primitive vs wrapper classes
+* Memory management in Java
+* Purpose of `void`
+* Types of return statements
+* `String[] args` in the `main` method
+
+**Code Link:**
+👉 Java Methods
+[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/methods](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/methods)
+
+**Git Activity:**
+
+* Code committed and pushed to GitHub
+
+---
