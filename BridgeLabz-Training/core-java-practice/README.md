@@ -209,13 +209,16 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 (**Date: 23-Dec-2025**)
 
-**Topics studied and practiced:**
+**Topics studied:**
 
 * Built-in Java functions
 * Object class `.equals()` vs String `.equals()`
 * `==` operator comparisons
 * Thread basics and thread safety
 * Legacy Date-Time API (`Date`, `Calendar`)
+
+ **Topics Practiced:**
+* Common built-in functions
 * Modern Date-Time API (`java.time`)
 
   * `LocalDate`
@@ -239,7 +242,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 (**Date: 24-Dec-2025**)
 
-**Topics studied and practiced:**
+**Topics studied:**
 
 * Scenario-based problem solving
 * Real-world Java application logic
@@ -248,7 +251,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Synchronized vs non-synchronized methods
 * String memory management (SCP)
 
-**Scenario-Based Problems Solved:**
+**Practiced Scenario-Based Problems:**
 
 1. Coffee Counter Chronicles
 2. Maya’s BMI Fitness Tracker
@@ -261,7 +264,6 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Conditional logic (`if-else`, `switch`)
 * Loops (`while`, `for`)
 * `break` and `continue`
-* Clean coding practices
 
 **Code Link:**
 👉 Scenario-Based Programs
