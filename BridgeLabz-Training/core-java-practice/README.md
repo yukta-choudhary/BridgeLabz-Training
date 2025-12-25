@@ -21,24 +21,9 @@ This repository documents my **day-wise learning progress** during the BridgeLab
   * `git commit`
   * `git push`
   * 
-Folder Structure -
-BridgeLabz-Training
-│
-├── core-java-practice
-│   │
-│   ├── gcr-codebase
-│   │   ├── programming-prerequisites
-│   │   ├── programming-elements
-│   │   ├── control-flow
-│   │   ├── methods
-│   │   ├── arrays
-│   │   ├── extras
-│   │   └── strings
-│   │
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
-|___ README.md
+
+<img width="620" height="279" alt="image" src="https://github.com/user-attachments/assets/76a290ca-35dd-44a3-9413-7c01ed831d32" />
+
  
 ---
 ### 📅 Day 2 – Java Programming Prerequisites
