@@ -75,3 +75,34 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Code committed and pushed to GitHub
 
 ---
+
+
+### 📅 Day 4 – Java Control Flow Statements
+
+(**Date: 18-Dec-2025**)
+
+**Studied topics**
+
+* Java control flow concepts
+* Boolean data type and expressions
+* Logical operators
+* Conditional statements:
+  * `if`
+  * `else if`
+  * `else`
+* Loops:
+
+  * `for`
+  * `while`
+* `break` and `continue`
+* `switch` statement
+* Practiced problems on control flow
+
+**Code Link:**
+👉 Control Flow Programs
+[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/control-flow](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/control-flow)
+
+**Git Activity:**
+* Code committed and pushed to GitHub
+
+---
