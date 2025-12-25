@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class CoffeeCounter {
+class CoffeeCounterChronicles {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
