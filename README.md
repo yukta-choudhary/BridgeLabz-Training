@@ -176,3 +176,41 @@ BridgeLabz-Training/
 * Code committed and pushed to GitHub
 
 ---
+
+
+
+###  Day 7 – Strings & Exception Handling
+
+(**Date: 22-Dec-2025**)
+
+**Studied and practiced problems on topic:**
+
+* String creation using literals and `new` keyword
+* Escape sequences
+* Taking string input
+* String arrays
+* Strings as method parameters
+* Built-in String methods
+* ASCII character codes
+* Java exceptions
+* Exception hierarchy
+* Checked and unchecked exceptions
+* `throw` and `throws`
+
+**Advanced Concepts Discussed:**
+
+* String immutability
+* String Constant Pool (SCP)
+* Heap vs stack memory
+* `StringBuilder` vs `StringBuffer`
+* `.equals()` vs `==`
+* Difference between `length` and `length()`
+
+**Code Link:**
+[Strings](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/strings)
+
+**Git Activity:**
+
+* Code committed and pushed to GitHub
+
+---
