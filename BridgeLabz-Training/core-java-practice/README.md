@@ -1,4 +1,4 @@
-# BridgeLabz Training – Core Java Practice
+# Week 1: Git, GitHub & Java Programming Fundamentals
 
 This repository documents my **day-wise learning progress** during the BridgeLabz Core Java training program.
 
@@ -22,7 +22,23 @@ This repository documents my **day-wise learning progress** during the BridgeLab
   * `git push`
   * 
 
-<img width="620" height="279" alt="image" src="https://github.com/user-attachments/assets/76a290ca-35dd-44a3-9413-7c01ed831d32" />
+BridgeLabz-Training/
+│
+├── core-java-practice/
+│   ├── gcr-codebase/
+│   │   ├── arrays/
+│   │   ├── built-in-functions/
+│   │   ├── control-flow/
+|   |   ├── Extras/
+│   │   ├── java-methods/
+│   │   ├── programming-elements/
+│   │   ├── string-handling/
+│   │   └── strings/
+│   │
+│   └── leet-code-codebase/
+│       └── scenario-based/
+│
+└── README.md
 
  
 ---
@@ -36,8 +52,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Programming prerequisites required before Core Java concepts
 
 **Code Link:**
- Program Prerequisites
-[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/program-prerequisites](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/program-prerequisites)
+[Program Prerequisites](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/program-prerequisites)
 
 **Git Activity:**
 * Code committed and pushed to GitHub
@@ -97,8 +112,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Practiced problems on control flow
 
 **Code Link:**
-Control Flow Programs
-[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/control-flow](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/control-flow)
+[Control-flows](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/control-flow)
 
 **Git Activity:**
 * Code committed and pushed to GitHub
@@ -122,8 +136,7 @@ Control Flow Programs
 * Using `System.err()` and `System.exit()`
 
 **Code Link:**
-Arrays Practice
-[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/arrays](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/arrays)
+[Arrays](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/arrays)
 
 **Git Activity:**
 
@@ -156,8 +169,7 @@ Arrays Practice
 * `String[] args` in the `main` method
 
 **Code Link:**
-Java Methods
-[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/methods](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/methods)
+[Methods](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/methods)
 
 **Git Activity:**
 
@@ -194,8 +206,7 @@ Java Methods
 * Difference between `length` and `length()`
 
 **Code Link:**
-Strings & Exceptions
-[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/strings](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/strings)
+[Strings](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/strings)
 
 **Git Activity:**
 
@@ -228,7 +239,7 @@ Strings & Exceptions
 
 **Code Link:**
 Extra Practice
-[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/extras](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/extras)
+[Extras](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/extras)
 
 **Git Activity:**
 
@@ -265,7 +276,7 @@ Extra Practice
 
 **Code Link:**
 Scenario-Based Programs
-[https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/scenario-based-codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/scenario-based-codebase)
+[Scenario-based-Programs](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/scenario-based-codebase)
 
 **Git Activity:**
 
