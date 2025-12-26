@@ -214,3 +214,37 @@ BridgeLabz-Training/
 * Code committed and pushed to GitHub
 
 ---
+
+
+###  Day 8 – Extra Practice & Date-Time API
+
+(**Date: 23-Dec-2025**)
+
+**Topics studied:**
+
+* Built-in Java functions
+* Object class `.equals()` vs String `.equals()`
+* `==` operator comparisons
+* Thread basics and thread safety
+* Legacy Date-Time API (`Date`, `Calendar`)
+
+ **Topics Practiced:**
+* Common built-in functions
+* Modern Date-Time API (`java.time`)
+
+  * `LocalDate`
+  * `LocalTime`
+  * `LocalDateTime`
+  * `ZonedDateTime`
+* Date parsing, formatting, and comparison
+* Date arithmetic using built-in methods
+
+**Code Link:**
+Extra Practice
+[Extras](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/extras)
+
+**Git Activity:**
+
+* Code committed and pushed to GitHub
+
+---
