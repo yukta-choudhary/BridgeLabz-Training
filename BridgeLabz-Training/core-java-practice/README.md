@@ -1,8 +1,8 @@
-# 📘 BridgeLabz Training – Core Java Practice
+# BridgeLabz Training – Core Java Practice
 
 This repository documents my **day-wise learning progress** during the BridgeLabz Core Java training program.
 
-### 📅 Day 1 – Git & GitHub Setup
+### Day 1 – Git & GitHub Setup
 
 (**Date: 15-Dec-2025**)
 
@@ -26,7 +26,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
  
 ---
-### 📅 Day 2 – Java Programming Prerequisites
+###  Day 2 – Java Programming Prerequisites
 
 (**Date: 16-Dec-2025**)
 
@@ -36,7 +36,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Programming prerequisites required before Core Java concepts
 
 **Code Link:**
-👉 Program Prerequisites
+ Program Prerequisites
 [https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/program-prerequisites](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/program-prerequisites)
 
 **Git Activity:**
@@ -44,7 +44,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 ---
 
-### 📅 Day 3 – Programming Elements in Java
+### Day 3 – Programming Elements in Java
 
 (**Date: 17-Dec-2025**)
 
@@ -65,7 +65,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Logical problem-solving approach
 
 **Code Link:**
-👉 Programming Elements
+ Programming Elements
 [https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/programming-elements](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/programming-elements)
 
 **Git Activity:**
@@ -75,7 +75,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 ---
 
 
-### 📅 Day 4 – Java Control Flow Statements
+### Day 4 – Java Control Flow Statements
 
 (**Date: 18-Dec-2025**)
 
@@ -97,7 +97,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Practiced problems on control flow
 
 **Code Link:**
-👉 Control Flow Programs
+Control Flow Programs
 [https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/control-flow](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/control-flow)
 
 **Git Activity:**
@@ -105,7 +105,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 ---
 
-### 📅 Day 5 – Java Arrays
+### Day 5 – Java Arrays
 
 (**Date: 19-Dec-2025**)
 
@@ -122,7 +122,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Using `System.err()` and `System.exit()`
 
 **Code Link:**
-👉 Arrays Practice
+Arrays Practice
 [https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/arrays](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/arrays)
 
 **Git Activity:**
@@ -131,7 +131,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 ---
 
-### 📅 Day 6 – Java Methods
+### Day 6 – Java Methods
 
 (**Date: 20-Dec-2025**)
 
@@ -156,7 +156,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * `String[] args` in the `main` method
 
 **Code Link:**
-👉 Java Methods
+Java Methods
 [https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/methods](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/methods)
 
 **Git Activity:**
@@ -166,7 +166,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 ---
 
 
-### 📅 Day 7 – Strings & Exception Handling
+###  Day 7 – Strings & Exception Handling
 
 (**Date: 22-Dec-2025**)
 
@@ -194,7 +194,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Difference between `length` and `length()`
 
 **Code Link:**
-👉 Strings & Exceptions
+Strings & Exceptions
 [https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/strings](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/strings)
 
 **Git Activity:**
@@ -203,7 +203,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 ---
 
-### 📅 Day 8 – Extra Practice & Date-Time API
+###  Day 8 – Extra Practice & Date-Time API
 
 (**Date: 23-Dec-2025**)
 
@@ -227,7 +227,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * Date arithmetic using built-in methods
 
 **Code Link:**
-👉 Extra Practice
+Extra Practice
 [https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/extras](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/gcr-codebase/extras)
 
 **Git Activity:**
@@ -236,7 +236,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 ---
 
-### 📅 Day 9 – Scenario-Based & Real-World Java Problems
+### Day 9 – Scenario-Based & Real-World Java Problems
 
 (**Date: 24-Dec-2025**)
 
@@ -264,7 +264,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 * `break` and `continue`
 
 **Code Link:**
-👉 Scenario-Based Programs
+Scenario-Based Programs
 [https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/scenario-based-codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/BridgeLabz-Training/core-java-practice/scenario-based-codebase)
 
 **Git Activity:**
