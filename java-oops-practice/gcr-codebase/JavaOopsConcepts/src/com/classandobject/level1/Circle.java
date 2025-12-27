@@ -4,7 +4,6 @@ public class Circle {
 	
 	//non-static variables
 	double radius;
-	
 	//constructors
 	Circle(double radius){
 		this.radius=radius;
