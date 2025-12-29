@@ -255,3 +255,24 @@ BridgeLabz-Training/
 - Code committed and pushed to GitHub
 
 ---
+### Day 12 – Scenario-Based & LeetCode Practice
+
+(**Date: 29-Dec-2025**)
+
+**Practiced:**
+- Solved **5 scenario-based Java programs**:
+  - Parking Lot Gate System
+  - Number Guessing Game
+  - Shopkeeper’s Discount Dashboard
+  - School Bus Attendance System
+  - Phone Recharge Simulator
+- Solved **5 LeetCode problems** using Core Java
+
+**Code Links:**
+- [Scenario-Based Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
