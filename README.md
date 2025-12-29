@@ -345,3 +345,24 @@ Scenario-Based Programs
 - [Constructors & Access Modifiers](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
 
 ---
+
+### Day 12 – Core Java Scenario & LeetCode Practice
+
+(**Date: 29-Dec-2025**)
+
+**Today's Learnings:**
+
+- Solved **5 scenario-based questions** using Core Java  
+- Studied **keywords** and the **`instanceof` operator**  
+- Practiced **5 LeetCode array problems** 
+
+**Code Links:**
+
+- [Scenario-Based Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+
+- Code committed and pushed to GitHub
+
+---
