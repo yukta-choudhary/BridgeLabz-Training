@@ -214,3 +214,27 @@ BridgeLabz-Training/
 
 ---
 
+### Day 10 – Scenario-Based Core Java Practice
+
+(**Date: 26-Dec-2025**)
+
+**Practiced:**
+- Scenario-based Java programs:
+  - Election Booth Manager
+  - Metro Smart Card Fare Deduction
+  - Raj’s Result Generator
+- Solved **5 array-based problems** on LeetCode
+
+**Concepts Used:**
+- Control flow statements
+- Arrays
+- User input handling
+- Logical problem solving
+
+**Code Links:**
+- [Scenario-Based Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
