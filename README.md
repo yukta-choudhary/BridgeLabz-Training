@@ -238,3 +238,20 @@ BridgeLabz-Training/
 **Git Activity:**
 - Code committed and pushed to GitHub
 
+---
+
+### Day 11 – LeetCode Core Java Practice
+
+(**Date: 27-Dec-2025**)
+
+**Practiced:**
+- Solved **5 LeetCode problems** based on Core Java concepts
+- Focused on logic building and problem-solving skills
+
+**Code Link:**
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
