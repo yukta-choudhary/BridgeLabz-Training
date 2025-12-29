@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Eclipse specific files
 
 .metadata/
@@ -23,3 +24,6 @@ target/
 .DS_Store
 
 Thumbs.db
+=======
+/.metadata/
+>>>>>>> Stashed changes
