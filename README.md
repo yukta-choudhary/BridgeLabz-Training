@@ -316,10 +316,12 @@ Scenario-Based Programs
 
 ---
 
-### Day 11 – Constructors, Access Modifiers & Static Concepts  
-(**Date: 27-Dec-2025**)
+# Week 3: Oops Fundamentals questions and scenario based questions
 
 ---
+
+### Day 11 – Constructors, Access Modifiers & Static Concepts  
+(**Date: 27-Dec-2025**)
 
 ### 📘 Topics Studied
 
@@ -331,16 +333,12 @@ Scenario-Based Programs
 - Learned **Instance vs Class (Static) Variables**
 - Studied **Access Modifiers**
 
----
-
 ### 🧩 Practiced Problems
 
 - Implemented multiple **constructor-based programs**
 - Solved **access modifier–based problems** using inheritance
 - Solved 3 Scenario based questions.
 - Practiced **5 LeetCode Array problems** (Core Java logic)
-
----
 
 ### 🔗 Code Links
 
