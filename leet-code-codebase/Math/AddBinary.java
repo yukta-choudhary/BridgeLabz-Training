@@ -10,17 +10,22 @@
 	Example 2:
 	Input: a = "1010", b = "1011"
 	Output: "10101"
-
 */
 
+import java.util.Scanner;
 
 public class AddBinary {
 
     public static void main(String[] args) {
 
-        // Given binary strings
-        String a = "1010";
-        String b = "1011";
+        Scanner input = new Scanner(System.in);
+
+        // Take binary strings from user
+        System.out.print("Enter first binary number: ");
+        String a = input.next();
+
+        System.out.print("Enter second binary number: ");
+        String b = input.next();
 
         // Result string
         String result = "";
@@ -49,19 +54,21 @@ public class AddBinary {
                 j--;
             }
 
-            // Binary digit result
+            // Store binary digit
             result = (sum % 2) + result;
 
-            // Carry update
+            // Update carry
             carry = sum / 2;
         }
 
-        // If carry remains
+        // If carry is left
         if (carry == 1) {
             result = carry + result;
         }
 
-        // Output
+        // Display result
         System.out.println("Binary Sum = " + result);
+
+        input.close();
     }
 }
