@@ -5,7 +5,7 @@ Record temperatures over 7 days.
 ● Find average and max temperature.
 ● Use if for comparisons. Maintain readable naming and modular code blocks.
 */
-import java.util.Scanner
+import java.util.Scanner;
 
 public class TemperatureLogger{
 
@@ -21,7 +21,7 @@ public class TemperatureLogger{
 		double average;
 		int sum = 0, maxTemperature = Integer.MIN_VALUE;
 		
-		System.out.println("Enter temperature record for past 7 days");
+		System.out.println("Enter temperature record for past 7 days (in Celsius) ");
 		
 		//Take temperature record from the user
 		for(int i = 0; i<temperatureRecords.length; i++){
