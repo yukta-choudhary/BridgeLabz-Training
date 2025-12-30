@@ -21,7 +21,7 @@ public class SandeepFitnessTracker{
 		double average;
 		int total = 0;
 		
-		System.out.println("Enter number of push-ups record for past 7 days");
+		System.out.println("Enter number of push-ups record for past 7 days(enter 0 for rest days)");
 		
 		//Take input of the push-up from the user
 		for(int i = 0; i<pushUpRecords.length; i++){
@@ -31,15 +31,16 @@ public class SandeepFitnessTracker{
 		
 		//Calculate total
 		for(int i : pushUpRecords){
-		
-			total = total + pushUpRecords[i];
+			if(pushUpRecords[i] == 0){
+				continue;
+			}
+			total = total + i;
 			
 		}
 		
 		//Display total and average pushUp count
 		System.out.println("The total of the temperatures is " + total);
 		System.out.println("The average of the temperatures is " + ((double)total/(double)7));
-
 
 		input.close();
 	
