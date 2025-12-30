@@ -276,3 +276,25 @@ BridgeLabz-Training/
 - Code committed and pushed to GitHub
 
 ---
+
+### Day 13 – Scenario-Based & LeetCode Practice
+
+(**Date: 30-Dec-2025**)
+
+**Practiced:**
+- Solved **5 scenario-based Java programs**:
+  - Temperature Logger
+  - Train Reservation Queue 
+  - Sandeep’s Fitness Challenge Tracker
+  - Rohan’s Library Reminder App
+  - Movie Ticket Booking App
+- Solved **5 LeetCode problems** using Core Java
+
+**Code Links:**
+- [Scenario-Based Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
