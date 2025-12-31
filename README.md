@@ -298,3 +298,25 @@ BridgeLabz-Training/
 - Code committed and pushed to GitHub
 
 ---
+
+### Day 14 – Scenario-Based & LeetCode Practice
+
+(**Date: 31-Dec-2025**)
+
+**Practiced:**
+- Solved **5 scenario-based Java programs**:
+  - Digital Watch Simulation 
+  - Online Quiz Application 
+  - Currency Exchange Kiosk 
+  - Bus Route Distance Tracker 
+  - Festival Lucky Draw 
+- Solved **5 LeetCode problems** using Core Java
+
+**Code Links:**
+- [Scenario-Based Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
