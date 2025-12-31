@@ -389,3 +389,33 @@ Scenario-Based Programs
 - Code committed and pushed to GitHub
 
 ---
+### Day 14 – Inheritance
+
+(**Date: 31-Dec-2025**)
+
+- Studied and practiced Inheritance concepts:
+	- Inheritance
+	- Single Level Inheritance
+	- Multilevel Inheritance
+	- Hierarchical Inheritance
+	- Key Features of Inheritance
+	- Method Overriding
+	- Constructor Inheritance in Java
+	- Polymorphism and Inheritance
+	- Access Modifiers and Inheritance
+- Solved **5 scenario-based Java programs**:
+	- Digital Watch Simulation 
+	- Online Quiz Application 
+	- Currency Exchange Kiosk 
+	- Bus Route Distance Tracker 
+	- Festival Lucky Draw 
+- Solved **5 LeetCode problems** using Core Java
+
+**Code Links:**
+- [Scenario-Based Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
