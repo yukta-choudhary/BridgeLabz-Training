@@ -106,3 +106,26 @@
 - Code committed and pushed to GitHub
 
 ---
+---
+### Day 14 – Inheritance
+
+(**Date: 31-Dec-2025**)
+
+- Studied and practiced Inheritance concepts:
+	- Inheritance
+	- Single Level Inheritance
+	- Multilevel Inheritance
+	- Hierarchical Inheritance
+	- Key Features of Inheritance
+	- Method Overriding
+	- Constructor Inheritance in Java
+	- Polymorphism and Inheritance
+	- Access Modifiers and Inheritance
+
+**Code Links:**
+- [Inheritance](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
