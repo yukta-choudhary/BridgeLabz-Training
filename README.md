@@ -1,4 +1,4 @@
-### Day 10 – OOP Concepts & Core Java Practice
+### Day 1 – OOP Concepts & Core Java Practice
 
 (**Date: 26-Dec-2025**)
 
@@ -22,14 +22,7 @@
 
 ---
 
-### 🔗 Code Links
-
-
-- [Core Java Scenario Based Programs](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day2))
-
-- [Leetcode Practice](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays))
-
-### Day 11 – Constructors, Access Modifiers & Static Concepts  
+### Day 2 – Constructors, Access Modifiers & Static Concepts  
 (**Date: 27-Dec-2025**)
 
 ---
@@ -63,7 +56,7 @@
 
 ---
 
-### Day 12 – Core Java Scenario & LeetCode Practice
+### Day 3 – Core Java Scenario & LeetCode Practice
 
 (**Date: 29-Dec-2025**)
 
@@ -73,10 +66,6 @@
 - Studied this, final **keywords** and the **`instanceof` operator**  
 - Practiced **5 LeetCode array problems** 
 
-**Code Links:**
-
-- [Scenario-Based Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)  
-- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 **Git Activity:**
 
@@ -84,7 +73,7 @@
 
 ---
 
-### Day 13 – Object Oriented Design Principles, Object modelling and relations
+### Day 4 – Object Oriented Design Principles, Object modelling and relations
 
 (**Date: 30-Dec-2025**)
 
@@ -98,16 +87,12 @@
   - Movie Ticket Booking App
 - Solved **5 LeetCode problems** using Core Java
 
-**Code Links:**
-- [Scenario-Based Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
-
 **Git Activity:**
 - Code committed and pushed to GitHub
 
 ---
 ---
-### Day 14 – Inheritance
+### Day 5 – Inheritance
 
 (**Date: 31-Dec-2025**)
 
