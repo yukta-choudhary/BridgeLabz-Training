@@ -1,12 +1,13 @@
 // Question 125: Valid Palindrome
-// Given a string s, check if it is a palindrome after:
+// Check if a string is palindrome after removing
+
+
+import java.util.Scanner;
 
 class ValidPalindrome {
 
-    // method to check palindrome
     static boolean isPalindrome(String s) {
 
-        // convert to lowercase
         s = s.toLowerCase();
 
         int left = 0;
@@ -18,33 +19,31 @@ class ValidPalindrome {
             char c1 = s.charAt(left);
             char c2 = s.charAt(right);
 
-            // skip non-alphanumeric from left
+            // skip non-alphanumeric
             if (!Character.isLetterOrDigit(c1)) {
                 left++;
-            }
-            // skip non-alphanumeric from right
-            else if (!Character.isLetterOrDigit(c2)) {
+            } else if (!Character.isLetterOrDigit(c2)) {
                 right--;
-            }
-            // compare characters
-            else {
+            } else {
                 if (c1 != c2)
                     return false;
-
                 left++;
                 right--;
             }
         }
 
-        // palindrome if all matched
         return true;
     }
 
     public static void main(String[] args) {
 
-        String s = "A man, a plan, a canal: Panama";
+        Scanner sc = new Scanner(System.in);
 
-        // print result
+        System.out.print("Enter string: ");
+        String s = sc.nextLine();
+
         System.out.println(isPalindrome(s));
+
+        sc.close();
     }
 }
