@@ -3,7 +3,7 @@ package com.encapsulation.ecommerce;
 //Interface Taxable
 public interface Taxable {
 
- double calculateTax();
+double calculateTax();
 
- String getTaxDetails();
+String getTaxDetails();
 }

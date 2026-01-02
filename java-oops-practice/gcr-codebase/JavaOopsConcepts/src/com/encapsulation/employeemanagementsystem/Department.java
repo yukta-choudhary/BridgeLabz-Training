@@ -1,4 +1,5 @@
 package com.encapsulation.employeemanagementsystem;
+
 //Interface Department
 public interface Department {
 	
