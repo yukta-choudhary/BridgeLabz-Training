@@ -1,50 +1,50 @@
-// Valid Parentheses -  Given a string with (), {}, [], check if brackets are valid and balanced.
+// Question 20: Valid Parentheses
+// Check if brackets (), {}, [] are valid and balanced.
 
+import java.util.Scanner;
 import java.util.Stack;
 
 class ValidParentheses {
 
     static boolean isValid(String s) {
 
-        // stack to store opening brackets
         Stack<Character> stack = new Stack<>();
 
-        // loop through each character
+        // traverse string
         for (int i = 0; i < s.length(); i++) {
 
             char ch = s.charAt(i);
 
-            // if opening bracket, push to stack
+            // push opening brackets
             if (ch == '(' || ch == '{' || ch == '[') {
                 stack.push(ch);
-            }
-            // if closing bracket
+            } 
+            // handle closing brackets
             else {
-                // if stack empty, no matching opening
                 if (stack.isEmpty())
                     return false;
 
                 char top = stack.pop();
 
-                // check matching pair
-                if (ch == ')' && top != '(')
-                    return false;
-                if (ch == '}' && top != '{')
-                    return false;
-                if (ch == ']' && top != '[')
-                    return false;
+                if (ch == ')' && top != '(') return false;
+                if (ch == '}' && top != '{') return false;
+                if (ch == ']' && top != '[') return false;
             }
         }
 
-        // valid only if stack is empty
+        // valid if stack empty
         return stack.isEmpty();
     }
 
     public static void main(String[] args) {
 
-        String s = "([])";
+        Scanner sc = new Scanner(System.in);
 
-        // check and print result
+        System.out.print("Enter string: ");
+        String s = sc.nextLine();
+
         System.out.println(isValid(s));
+
+        sc.close();
     }
 }
