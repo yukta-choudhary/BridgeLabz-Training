@@ -3,7 +3,7 @@ package com.encapsulation.vehiclerentalsystem;
 //Interface Insurable
 public interface Insurable {
 
- double calculateInsurance();
+double calculateInsurance();
 
- String getInsuranceDetails();
+String getInsuranceDetails();
 }
