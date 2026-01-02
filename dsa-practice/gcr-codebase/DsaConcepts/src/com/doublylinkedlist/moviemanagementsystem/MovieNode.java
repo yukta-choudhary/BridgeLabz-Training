@@ -1,4 +1,4 @@
-package com.singlylinkedlist.moviemanagementsystem;
+package com.doublylinkedlist.moviemanagementsystem;
 //Node class for Doubly Linked List
 
 class MovieNode {

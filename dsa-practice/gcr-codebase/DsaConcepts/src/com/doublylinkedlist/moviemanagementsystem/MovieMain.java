@@ -1,4 +1,4 @@
-package com.singlylinkedlist.moviemanagementsystem;
+package com.doublylinkedlist.moviemanagementsystem;
 
 //Main class for Movie Management System
 
