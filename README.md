@@ -367,7 +367,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 13 – Scenario-Based & LeetCode Practice
+### Day 13 – Object Modelling
 
 (**Date: 30-Dec-2025**)
 
@@ -422,9 +422,9 @@ Scenario-Based Programs
 
 ### Day 15 – Encapsulation, Interface, Abstract Classes, and Polymorphism 
 
-(**Date: 31-Dec-2025**)
+(**Date: 1-January-2025**)
 
-- Studied and practiced Inheritance concepts:
+- Studied and practiced encapsulation concepts:
 	- Encapsulation
 	- Polymorphism 
 	- Interface
@@ -434,7 +434,33 @@ Scenario-Based Programs
 - Solved 5 leetcode questions
 
 **Code Links:**
-- [Inheritance](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+- [Encapsulation](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day1)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
+
+# Week 3: DSA Concepts
+
+---
+
+### Day 16 – LinkedList 
+
+(**Date: 2-Jan-2026**)
+
+- Studied and practiced dsa linked list concepts:
+	- Singly LinkedList
+	- Doubly LinkedList
+	- Circular LinkedList
+	
+- Solved Scenario based questions on oops concepts 
+- Solved 5 leetcode questions
+
+**Code Links:**
+- [linkedlist](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com)
 - [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day1)
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
