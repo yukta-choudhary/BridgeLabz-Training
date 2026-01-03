@@ -4,10 +4,10 @@ package com.day2.hospitalpatientmanagement;
 public class HospitalMain {
  public static void main(String[] args) {
 
-     Patient p1 = new InPatient(101, "Rahul", 30, 5);
-     Patient p2 = new OutPatient(102, "Anita", 25);
+     Patient p1 = new InPatient(101, "Richard", 40, 5);
+     Patient p2 = new OutPatient(102, "Alex", 15);
 
-     Doctor d1 = new Doctor(201, "Dr. Sharma", "Cardiology");
+     Doctor d1 = new Doctor(201, "Dr. Mathew", "Pathology");
 
      Bill bill = new Bill(1000, 100, 200);
 
