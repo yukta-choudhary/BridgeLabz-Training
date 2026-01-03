@@ -461,7 +461,30 @@ Scenario-Based Programs
 
 **Code Links:**
 - [linkedlist](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com)
-- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day1)
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day2)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
+
+### Day 16 – Stack and Queue, Hash function and Hashmap
+
+(**Date: 3-Jan-2026**)
+
+- Studied and practiced dsa concepts:
+	- Stack
+	- Queue
+	- Hash function and Hashmap
+	
+- Solved Scenario based questions on oops concepts 
+- Solved 5 leetcode questions
+
+**Code Links:**
+- [Stack and Queue](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/stacksandqueues)
+- [Hashmap](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/hashandhashmap)
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day3)
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 **Git Activity:**
