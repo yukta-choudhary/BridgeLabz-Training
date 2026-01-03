@@ -115,11 +115,11 @@
 
 ---
 
-### Day 5 – Encapsulation, Interface, Abstract Classes, and Polymorphism 
+### Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism 
 
-(**Date: 31-Dec-2025**)
+(**Date: 1-Jan-2026**)
 
-- Studied and practiced Inheritance concepts:
+- Studied and practiced Oops concepts:
 	- Encapsulation
 	- Polymorphism 
 	- Interface
@@ -128,8 +128,23 @@
 - Solved Scenario based questions on oops concepts 
 
 **Code Links:**
-- [Inheritance](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+- [Encapsulation](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 - [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day1)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
+
+### Day 7 – Scenario based Questions 
+
+(**Date: 2-Jan-2026**)
+	
+- Solved Scenario based questions on oops concepts 
+
+**Code Links:**
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day1)
+
 **Git Activity:**
 - Code committed and pushed to GitHub
 
