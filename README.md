@@ -323,7 +323,7 @@ BridgeLabz-Training/
 
 ### Day 15 – Leetcode questions
 
-(**Date: 31-Dec-2025**)
+(**Date: 1-Jan-2026**)
  
 - Solved 5 leetcode questions
 
@@ -337,7 +337,7 @@ BridgeLabz-Training/
 ---
 ### Day 16 – Leetcode questions
 
-(**Date: 1-Jan-2026**)
+(**Date: 2-Jan-2026**)
 
 - Solved 5 leetcode questions
 
@@ -352,7 +352,7 @@ BridgeLabz-Training/
 
 ### Day 17 – Leetcode questions
 
-(**Date: 2-Jan-2026**)
+(**Date: 3-Jan-2026**)
 
 - Solved 5 leetcode questions
 
