@@ -143,7 +143,22 @@
 - Solved Scenario based questions on oops concepts 
 
 **Code Links:**
-- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day1)
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day2)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
+
+
+### Day 8 – Scenario based Questions 
+
+(**Date: 3-Jan-2026**)
+	
+- Solved Scenario based questions on oops concepts 
+
+**Code Links:**
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day3)
 
 **Git Activity:**
 - Code committed and pushed to GitHub
