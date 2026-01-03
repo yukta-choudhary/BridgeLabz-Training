@@ -4,9 +4,9 @@ package com.day2.smarthomeautomation;
 public class SmartHomeMain {
  public static void main(String[] args) {
 
-     Light light = new Light("Bedroom");
-     Fan fan = new Fan("Hall");
-     Ac ac = new Ac("Living Room", 1500);
+     Light light = new Light("Kitche");
+     Fan fan = new Fan("Bedroom");
+     Ac ac = new Ac("Bedroom", 1500);
 
      UserController controller = new UserController();
 
