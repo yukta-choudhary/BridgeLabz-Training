@@ -324,8 +324,21 @@ BridgeLabz-Training/
 ### Day 15 – Leetcode questions
 
 (**Date: 31-Dec-2025**)
+ 
+- Solved 5 leetcode questions
 
-- Solved Scenario based questions on oops concepts 
+**Code Links:**
+
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
+### Day 16 – Leetcode questions
+
+(**Date: 1-Jan-2026**)
+
 - Solved 5 leetcode questions
 
 **Code Links:**
