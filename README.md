@@ -514,3 +514,21 @@ Scenario-Based Programs
 - Code committed and pushed to GitHub
 
 ---
+### Day 18 – Data Structure - Linear, Binary Search, StringBuilder, StringBuffer, FileReader, InputStreamReader
+
+(**Date: 6-Jan-2026**)
+
+- Studied and practiced:
+  - StringBuilder
+  - StringBuffer
+  - FileReader,
+  - InputStreamReader
+  - Linear Search 
+  - Binary Search
+
+- Code pushed to github.
+
+**Code Links:**
+- [Linear and Binary Search](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/linearandbinarysearch)
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day5)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
