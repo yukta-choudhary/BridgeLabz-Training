@@ -310,13 +310,13 @@ Scenario-Based Programs
 
 ### 🔗 Code Links
 
-- [Core Java Scenario Based Programs](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day2))
+- [Core Java Scenario Based Programs](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/Day2)
 
-- [Leetcode Practice](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays))
+- [Leetcode Practice](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Arrays)
 
 ---
 
-# Week 3: Oops Fundamentals questions and scenario based questions
+# Week 2: Oops Fundamentals questions and scenario based questions
 
 ---
 
@@ -485,6 +485,29 @@ Scenario-Based Programs
 - [Stack and Queue](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/stacksandqueues)
 - [Hashmap](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/hashandhashmap)
 - [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day3)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
+
+
+### Day 17 – Data Structure - Sorting Algorithms
+
+(**Date: 5-Jan-2026**)
+
+- Studied and practiced sorting algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+
+- Code pushed to github.
+
+**Code Links:**
+- [Sorting](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/sorting)
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day4)
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 **Git Activity:**
