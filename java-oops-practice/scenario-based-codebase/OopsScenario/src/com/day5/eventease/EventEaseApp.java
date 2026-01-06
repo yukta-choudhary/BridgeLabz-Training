@@ -1,4 +1,4 @@
-package com.day4.eventease;
+package com.day5.eventease;
 
 //Main class
 import java.util.Scanner;

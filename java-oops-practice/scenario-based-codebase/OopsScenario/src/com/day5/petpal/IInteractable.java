@@ -1,4 +1,4 @@
-package com.day4.petpal;
+package com.day5.petpal;
 //Interface for pet interaction
 public interface IInteractable {
  void feed();

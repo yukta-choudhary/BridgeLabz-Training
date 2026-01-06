@@ -1,4 +1,4 @@
-package com.day4.eventease;
+package com.day5.eventease;
 
 //Conference event class
 public class ConferenceEvent extends Event implements ISchedulable {

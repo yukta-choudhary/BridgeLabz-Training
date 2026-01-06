@@ -1,4 +1,4 @@
-package com.day4.edumentor;
+package com.day5.edumentor;
 
 //Quiz class
 public class Quiz {

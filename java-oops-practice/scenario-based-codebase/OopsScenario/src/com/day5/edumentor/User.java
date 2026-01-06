@@ -1,4 +1,4 @@
-package com.day4.edumentor;
+package com.day5.edumentor;
 
 //Base class User
 public class User {

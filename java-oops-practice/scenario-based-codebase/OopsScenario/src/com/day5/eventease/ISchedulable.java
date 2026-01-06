@@ -1,4 +1,4 @@
-package com.day4.eventease;
+package com.day5.eventease;
 
 //Interface for scheduling events
 public interface ISchedulable {

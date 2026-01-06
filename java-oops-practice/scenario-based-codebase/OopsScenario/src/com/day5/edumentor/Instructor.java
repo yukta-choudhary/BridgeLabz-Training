@@ -1,4 +1,4 @@
-package com.day4.edumentor;
+package com.day5.edumentor;
 
 //Instructor class
 public class Instructor extends User {

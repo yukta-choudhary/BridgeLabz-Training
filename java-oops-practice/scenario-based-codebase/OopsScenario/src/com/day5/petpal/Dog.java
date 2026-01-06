@@ -1,4 +1,4 @@
-package com.day4.petpal;
+package com.day5.petpal;
 
 //Dog class
 public class Dog extends Pet implements IInteractable {

@@ -1,4 +1,4 @@
-package com.day4.fittrack;
+package com.day5.fittrack;
 
 //User profile class
 public class UserProfile {
