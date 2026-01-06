@@ -1,4 +1,4 @@
-### Day 1 – OOP Concepts & Core Java Practice
+### Day 1 – OOP Concepts
 
 (**Date: 26-Dec-2025**)
 
@@ -16,9 +16,10 @@
 
 ### 🧩 Practiced Problems
 
-- Pushed java-oops-practice problems
-- Pushed **3 scenario-based Core Java questions** to GitHub  
-- Solved **5 LeetCode problems** and pushed solutions to GitHub  
+- Pushed java-oops-practice problems 
+
+**Code Links:**
+- [Class and Objects](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
 
@@ -42,15 +43,11 @@
 
 ---
 
-### 🧩 Practiced Problems
+###  Practiced Problems
 
 - Implemented multiple **constructor-based programs**
-- Solved **access modifier–based problems** using inheritance
-- Practiced **5 LeetCode Array problems** (Core Java logic)
 
----
-
-### 🔗 Code Links
+###  Code Links
 
 - [Constructors & Access Modifiers](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
 
@@ -62,9 +59,11 @@
 
 **Today's Learnings:**
 
-- Solved **5 scenario-based questions** using Core Java  
 - Studied this, final **keywords** and the **`instanceof` operator**  
-- Practiced **5 LeetCode array problems** 
+
+###  Code Links
+
+- [Keywords and instanceof](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywordsandinstance)
 
 
 **Git Activity:**
@@ -79,13 +78,10 @@
 
 **Practiced:**
 - Studied and practiced problems on object modelling and relations
-- Solved **5 scenario-based Java programs**:
-  - Temperature Logger
-  - Train Reservation Queue 
-  - Sandeep’s Fitness Challenge Tracker
-  - Rohan’s Library Reminder App
-  - Movie Ticket Booking App
-- Solved **5 LeetCode problems** using Core Java
+
+###  Code Links
+
+- [Object Modelling](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
 **Git Activity:**
 - Code committed and pushed to GitHub
