@@ -54,3 +54,22 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 - [Sorting](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/sorting)
 
 ---
+
+### Day 4 – Data Structure - Linear, Binary Search, StringBuilder, StringBuffer, FileReader, InputStreamReader
+
+(**Date: 6-Jan-2026**)
+
+- Studied and practiced:
+  - StringBuilder
+  - StringBuffer
+  - FileReader,
+  - InputStreamReader
+  - Linear Search 
+  - Binary Search
+
+- Code pushed to github.
+
+**Code Links:**
+- [Linear and Binary Search](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/linearandbinarysearch)
+
+---
