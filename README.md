@@ -37,3 +37,20 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 - [Hash function and hashmap](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/hashandhashmap)
 
 ---
+
+### Day 3 – Data Structure - Sorting Algorithms
+
+(**Date: 5-Jan-2026**)
+
+- Studied and practiced sorting algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+
+- Code pushed to github.
+
+**Code Links:**
+- [Sorting](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/sorting)
+
+---
