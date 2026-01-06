@@ -1,4 +1,4 @@
-package com.day3.campusconnectprogram;
+package com.day4.campusconnectprogram;
 
 //Student class
 public class Student extends Person implements ICourseActions {

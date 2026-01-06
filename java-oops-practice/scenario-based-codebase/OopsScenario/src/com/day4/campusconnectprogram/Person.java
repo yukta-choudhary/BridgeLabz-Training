@@ -1,4 +1,4 @@
-package com.day3.campusconnectprogram;
+package com.day4.campusconnectprogram;
 
 //Base class
 public class Person {

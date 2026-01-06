@@ -1,4 +1,4 @@
-package com.day3.swiftcart;
+package com.day4.swiftcart;
 
 /*
 Question:

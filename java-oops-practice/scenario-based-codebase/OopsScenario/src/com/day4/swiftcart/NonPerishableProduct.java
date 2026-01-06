@@ -1,4 +1,4 @@
-package com.day3.swiftcart;
+package com.day4.swiftcart;
 //Non-perishable product class
 public class NonPerishableProduct extends Product {
 

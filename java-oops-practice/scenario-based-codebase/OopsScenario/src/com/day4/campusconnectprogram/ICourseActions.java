@@ -1,4 +1,4 @@
-package com.day3.campusconnectprogram;
+package com.day4.campusconnectprogram;
 
 //Interface for course actions
 public interface ICourseActions {
