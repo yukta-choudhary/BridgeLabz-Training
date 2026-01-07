@@ -73,3 +73,13 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 - [Linear and Binary Search](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/linearandbinarysearch)
 
 ---
+
+### Day 5 – Algorithm's Runtime Analysis & Big-O Notation
+
+(**Date: 7-Jan-2026**)
+
+- Studied and analysed:
+  - General Algorithm Best Practices
+  - Time and space Complexity Optimization
+
+---
