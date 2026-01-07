@@ -4,5 +4,5 @@
 /**
  * 
  */
-module DsaPractice {
+module DsaConcepts {
 }
