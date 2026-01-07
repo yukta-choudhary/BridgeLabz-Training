@@ -487,8 +487,7 @@ Scenario-Based Programs
 - [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day3)
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
-**Git Activity:**
-- Code committed and pushed to GitHub
+
 
 ---
 
@@ -503,6 +502,7 @@ Scenario-Based Programs
   - Merge Sort
   - Quick Sort
 
+- Solved scenario based questions
 - Code pushed to github.
 
 **Code Links:**
@@ -510,8 +510,6 @@ Scenario-Based Programs
 - [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day4)
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
-**Git Activity:**
-- Code committed and pushed to GitHub
 
 ---
 ### Day 18 – Data Structure - Linear, Binary Search, StringBuilder, StringBuffer, FileReader, InputStreamReader
@@ -526,6 +524,8 @@ Scenario-Based Programs
   - Linear Search 
   - Binary Search
 
+- Solved scenario based questions
+- Solved 5 leetcode problems
 - Code pushed to github.
 
 **Code Links:**
