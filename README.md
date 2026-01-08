@@ -83,3 +83,17 @@ This repository documents my **day-wise learning progress** during the BridgeLab
   - Time and space Complexity Optimization
 
 ---
+
+### Day 6 – Algorithm's Runtime Analysis & Big-O Notation
+
+(**Date: 8-Jan-2026**)
+
+- Practiced runtime analysis assignment questions:
+  - General Algorithm Best Practices
+  - Time and space Complexity Optimization
+- Code pushed to github
+
+**Code Links:**
+- [Runtime Analysis](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/runtimeanalysis)
+
+---
