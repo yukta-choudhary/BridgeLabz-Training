@@ -545,5 +545,22 @@ Scenario-Based Programs
 - Solved 1 leetcode problem
 
 **Code Links:**
+- [Runtime-Analysis] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/runtimeanalysis)
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day5)
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+### Day 20 –  Algorithm's Runtime Analysis & Big-O Notation
+
+(**Date: 8-Jan-2026**)
+
+- Studied and practiced problems:
+  - General Algorithm Best Practices
+  - Time and space Complexity Optimization
+- Solved 3 scenario based questions on oops
+- Solved 2 leetcode problem
+
+**Code Links:**
+- [Runtime-Analysis] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/runtimeanalysis)
 - [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day5)
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
