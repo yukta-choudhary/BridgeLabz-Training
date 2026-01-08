@@ -201,3 +201,17 @@
 - Code committed and pushed to GitHub
 
 ---
+
+### Day 12 – Scenario based Questions 
+
+(**Date: 8-Jan-2026**)
+	
+- Solved Scenario based questions on oops concepts 
+
+**Code Links:**
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day7)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
