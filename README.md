@@ -409,3 +409,18 @@ BridgeLabz-Training/
 - Code committed and pushed to GitHub
 
 ---
+
+### Day 21 – Leetcode questions
+
+(**Date: 9-Jan-2026**)
+
+- Solved 3 leetcode questions
+
+**Code Links:**
+
+- [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+**Git Activity:**
+- Code committed and pushed to GitHub
+
+---
