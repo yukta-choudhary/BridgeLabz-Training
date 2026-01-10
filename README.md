@@ -97,3 +97,15 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 - [Runtime Analysis](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DsaConcepts/src/com/runtimeanalysis)
 
 ---
+
+### Day 7 – Algorithm's Runtime Analysis & Big-O Notation
+
+(**Date: 10-Jan-2026**)
+
+- Practiced 3 scenario based questions on dsa:
+- Code pushed to github
+
+**Code Links:**
+- [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day1)
+
+---
