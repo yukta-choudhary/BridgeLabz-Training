@@ -115,7 +115,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 (**Date: 12-Jan-2026**)
 
-- Practiced 3 scenario based questions on dsa:
+- Practiced 5 scenario based questions on dsa:
 - Code pushed to github
 
 **Code Links:**
