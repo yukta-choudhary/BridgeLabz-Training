@@ -8,6 +8,9 @@
 
 .project
 
+# JPMS 
+**/module-info.java
+
 # Java build output
 
 bin/
