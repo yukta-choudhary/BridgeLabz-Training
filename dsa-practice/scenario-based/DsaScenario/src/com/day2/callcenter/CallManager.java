@@ -2,64 +2,71 @@ package com.day2.callcenter;
 
 /*
 CallManager class
-Manages queues and call data
+Uses arrays instead of collections
 */
-
-import java.util.*;
 
 class CallManager {
 
-    Queue<Customer> normalQueue = new LinkedList<>();
-    PriorityQueue<Customer> vipQueue;
-    HashMap<String, Integer> callCount = new HashMap<>();
+    Customer[] vipQueue = new Customer[50];
+    Customer[] normalQueue = new Customer[50];
 
-    // Constructor
-    CallManager() {
+    String[] names = new String[50];
+    int[] counts = new int[50];
 
-        // Priority based on name (simple rule)
-        vipQueue = new PriorityQueue<>(new Comparator<Customer>() {
-            public int compare(Customer a, Customer b) {
-                return a.name.compareTo(b.name);
-            }
-        });
-    }
+    int vipRear = 0;
+    int normalRear = 0;
+    int size = 0;
 
     // Add customer call
     void addCall(Customer c) {
 
-        // Add to correct queue
+        // Add to VIP or normal queue
         if (c.vip) {
-            vipQueue.add(c);
+            vipQueue[vipRear++] = c;
         } else {
-            normalQueue.add(c);
+            normalQueue[normalRear++] = c;
         }
 
         // Update call count
-        if (callCount.containsKey(c.name)) {
-            callCount.put(c.name, callCount.get(c.name) + 1);
+        int index = findCustomer(c.name);
+
+        if (index == -1) {
+            names[size] = c.name;
+            counts[size] = 1;
+            size++;
         } else {
-            callCount.put(c.name, 1);
+            counts[index]++;
         }
     }
 
-    // Serve VIP calls
+    // Find customer index
+    int findCustomer(String name) {
+        for (int i = 0; i < size; i++) {
+            if (names[i].equals(name)) {
+                return i;
+            }
+        }
+        return -1;
+    }
+
+    // Serve VIP customers
     void serveVip() {
-        while (!vipQueue.isEmpty()) {
-            System.out.println("Call connected to VIP: " + vipQueue.poll().name);
+        for (int i = 0; i < vipRear; i++) {
+            System.out.println("Call connected to VIP: " + vipQueue[i].name);
         }
     }
 
-    // Serve normal calls
+    // Serve normal customers
     void serveNormal() {
-        while (!normalQueue.isEmpty()) {
-            System.out.println("Call connected to: " + normalQueue.poll().name);
+        for (int i = 0; i < normalRear; i++) {
+            System.out.println("Call connected to: " + normalQueue[i].name);
         }
     }
 
     // Display call count
     void showCallCount() {
-        for (String key : callCount.keySet()) {
-            System.out.println(key + " called " + callCount.get(key) + " times");
+        for (int i = 0; i < size; i++) {
+            System.out.println(names[i] + " called " + counts[i] + " times");
         }
     }
 }
