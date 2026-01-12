@@ -592,3 +592,14 @@ Scenario-Based Programs
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
+
+### Day 23 –  Scenario based questions
+
+(**Date: 12-Jan-2026**)
+
+- Solved 3 scenario based questions on DSA
+
+**Code Links:**
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day2)
+
+---
