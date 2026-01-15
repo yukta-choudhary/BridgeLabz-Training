@@ -605,3 +605,16 @@ Scenario-Based Programs
 - [Oops-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day9)
 
 ---
+
+### Day 24 –  Scenario based questions
+
+(**Date: 13-Jan-2026**)
+
+- Solved 3 scenario based questions on DSA
+- Solved 2 scenario based questions on DSA
+
+**Code Links:**
+- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day3)
+- [Oops-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day10)
+
+---
