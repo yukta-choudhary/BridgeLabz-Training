@@ -10,7 +10,7 @@
 
 # JPMS 
 **/module-info.java
-
+**/module-info.class
 # Java build output
 
 bin/
