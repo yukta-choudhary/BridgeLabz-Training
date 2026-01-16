@@ -1,4 +1,4 @@
-package com.day3.hospitalqueue;
+package com.day4.hospitalqueue;
 
 import java.util.Scanner;
 
