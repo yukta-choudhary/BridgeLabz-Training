@@ -619,14 +619,33 @@ Scenario-Based Programs
 
 ---
 
+# Week 3: Java Collections, Streams
+---
 ### Day 25 –  Scenario based questions
 
 (**Date: 15-Jan-2026**)
 
 - Solved 5 scenario based questions on DSA
+- Studied java generics
+- Code committed and pushed to github
 
 **Code Links:**
 - [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
+
+---
+
+### Day 26 –  Scenario based questions
+
+(**Date: 16-Jan-2026**)
+
+- Solved 3 scenario based questions on DSA
+- Studied and practiced Java generics
+- Studied Java collections
+- code pushed and committed to github
+
+**Code Links:**
+- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
+- [Java-Generics] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
 
 
 ---
