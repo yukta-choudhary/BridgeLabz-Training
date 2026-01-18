@@ -611,7 +611,7 @@ Scenario-Based Programs
 (**Date: 13-Jan-2026**)
 
 - Solved 3 scenario based questions on DSA
-- Solved 2 scenario based questions on DSA
+- Solved 2 scenario based questions on OOPS
 
 **Code Links:**
 - [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day3)
@@ -619,7 +619,7 @@ Scenario-Based Programs
 
 ---
 
-# Week 3: Java Collections, Streams
+# Week 4: Java Collections, Streams
 ---
 ### Day 25 –  Scenario based questions
 
@@ -640,12 +640,13 @@ Scenario-Based Programs
 
 - Solved 3 scenario based questions on DSA
 - Studied and practiced Java generics
-- Studied Java collections
+- Studied and practiced Java collections
 - code pushed and committed to github
 
 **Code Links:**
 - [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
-- [Java-Generics] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
+- [Java-Generics] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/generics)
+- [Collections] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
 
 
 ---
