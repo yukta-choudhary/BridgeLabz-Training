@@ -149,10 +149,21 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 (**Date: 16-Jan-2026**)
 
-- Practiced 3 scenario based questions on dsa:
+- Practiced 3 scenario based questions on dsa
 - Code pushed to github
 
 **Code Links:**
 - [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day5)
+
+---
+### Day 12 – Scenario based problems
+
+(**Date: 17-Jan-2026**)
+
+- Practiced 4 scenario based questions on dsa
+- Code pushed to github
+
+**Code Links:**
+- [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day6)
 
 ---
