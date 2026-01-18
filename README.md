@@ -29,4 +29,18 @@ BridgeLabz-Training/
 
 ---
 
+### Day 2 – Java Collections
+
+(**Date: 16-Jan-2026**)
+
+**Studied and practiced:**
+  - Java Collections List Interface
+  - Java Collections Set Interface
+  - Code committed and pushed to GitHub
+
+**Code Link:**
+[Java-Generics](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
+
+---
+
 
