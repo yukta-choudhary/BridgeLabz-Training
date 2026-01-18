@@ -43,4 +43,18 @@ BridgeLabz-Training/
 
 ---
 
+### Day 3 – Java Collections
+
+(**Date: 17-Jan-2026**)
+
+**Studied and practiced:**
+  - Java Collections Map Interface
+  - Java Collections Queue Interface
+  - Code committed and pushed to GitHub
+
+**Code Link:**
+[Java-Generics](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
+
+---
+
 
