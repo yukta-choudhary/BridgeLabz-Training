@@ -648,5 +648,19 @@ Scenario-Based Programs
 - [Java-Generics] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/generics)
 - [Collections] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
 
+---
+### Day 17 –  Scenario based questions
+
+(**Date: 17-Jan-2026**)
+
+- Solved 4 scenario based questions on DSA
+- Solved 2 scenario based questions on OOPS
+- Studied and practiced Java collections
+- code pushed and committed to github
+
+**Code Links:**
+- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
+- [OOPS-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day11)
+- [Collections] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
 
 ---
