@@ -62,6 +62,18 @@ BridgeLabz-Training/
 (**Date: 19-Jan-2026**)
 
 **Studied and practiced:**
+  - Studied Java Streams
+  - Code committed and pushed to GitHub
+
+**Code Link:**
+[Streams](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
+
+---
+### Day 5 – Java Collections
+
+(**Date: 20-Jan-2026**)
+
+**Studied and practiced:**
   - Studied and practiced Java Streams
   - Code committed and pushed to GitHub
 
