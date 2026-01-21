@@ -630,7 +630,7 @@ Scenario-Based Programs
 - Code committed and pushed to github
 
 **Code Links:**
-- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
+- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/4)
 
 ---
 
@@ -644,7 +644,7 @@ Scenario-Based Programs
 - code pushed and committed to github
 
 **Code Links:**
-- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
+- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day5)
 - [Java-Generics] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/generics)
 - [Collections] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
 
@@ -659,8 +659,24 @@ Scenario-Based Programs
 - code pushed and committed to github
 
 **Code Links:**
-- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day4)
+- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day6)
 - [OOPS-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day11)
+- [Collections] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
+
+---
+
+### Day 18 –  Scenario based questions
+
+(**Date: 19-Jan-2026**)
+
+- Solved 3 scenario based questions on DSA
+- Solved 1 scenario based questions on OOPS
+- Studied Java streams
+- code pushed and committed to github
+
+**Code Links:**
+- [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day7)
+- [OOPS-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day12)
 - [Collections] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
 
 ---
