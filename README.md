@@ -8,9 +8,10 @@ BridgeLabz-Training/
 ├── java-collections-practice/
 │   ├── gcr-codebase/
 │   │   ├── generics/
-│   │   └── collections/
+│   │   ├── collections/
+│   │   ├── streams/
+│   │   └── exceptionhandling/
 │   │
-│   └── leet-code-codebase/
 │   └── scenario-based/
 │
 └── README.md
@@ -93,4 +94,18 @@ BridgeLabz-Training/
 **Code Link:**
 [Streams](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
 
+---
+### Day 7 – Java Collections
+
+(**Date: 23-Jan-2026**)
+
+**Studied and practiced:**
+  - Practiced Exception handling
+  - Practiced 5 scenario based questions
+  - Code committed and pushed to GitHub
+
+**Code Link:**
+[Exception-handling](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/exceptionhandling)
+
+[Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1g)
 ---
