@@ -202,12 +202,23 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 ---
 ### Day 16 – Scenario based problems
 
-(**Date: 20-Jan-2026**)
+(**Date: 21-Jan-2026**)
 
 - Practiced 3 scenario based questions on Binary Search Trees
 - Code pushed to github
 
 **Code Links:**
 - [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day10)
+
+---
+### Day 17 – Scenario based problems
+
+(**Date: 22-Jan-2026**)
+
+- Practiced 3 scenario based questions on AVL Trees
+- Code pushed to github
+
+**Code Links:**
+- [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day11)
 
 ---
