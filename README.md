@@ -11,7 +11,10 @@ BridgeLabz-Training/
 │   │   ├── collections/
 │   │   ├── streams/
 │   │   ├── exceptionhandling/
-│   │   └── regex/
+│   │   ├── regex/
+│   │   ├── junit/
+│   │   ├── annotations/
+│   │   └── reflections/
 │   │
 │   └── scenario-based/
 │
@@ -41,7 +44,7 @@ BridgeLabz-Training/
   - Code committed and pushed to GitHub
 
 **Code Link:**
-[Java-Generics](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
+[Java-Collections](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
 
 ---
 
@@ -55,7 +58,7 @@ BridgeLabz-Training/
   - Code committed and pushed to GitHub
 
 **Code Link:**
-[Java-Generics](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
+[Java-Collections](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
 
 ---
 
@@ -64,36 +67,37 @@ BridgeLabz-Training/
 (**Date: 19-Jan-2026**)
 
 **Studied and practiced:**
-  - Studied Java Streams
+  - Studied and practiced Java Streams
   - Code committed and pushed to GitHub
 
 **Code Link:**
 [Streams](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
 
 ---
-### Day 5 – Java Streams
+### Day 5 – Exception Handling
 
 (**Date: 20-Jan-2026**)
 
 **Studied and practiced:**
-  - Studied and practiced Java Streams
+  - Studied and practiced Exception Handling
   - Code committed and pushed to GitHub
 
 **Code Link:**
-[Streams](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
+[Exception-handling](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/exceptionhandling)
 
 ---
 
-### Day 6 – Java Streams
+### Day 6 – Regex & Junit
 
 (**Date: 21-Jan-2026**)
 
 **Studied and practiced:**
-  - Studied and practiced Java Streams
+  - Studied and practiced   Regex and JUnit
   - Code committed and pushed to GitHub
 
 **Code Link:**
-[Streams](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
+[Regex](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/regex)
+[JUnit](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/junit)
 
 ---
 ### Day 7 – Annotations and Reflections
@@ -109,31 +113,27 @@ BridgeLabz-Training/
 [Reflections](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/reflections)
 
 ---
-### Day 8 – Java Exception handling
+### Day 8 – Scenario Based Questions
 
 (**Date: 23-Jan-2026**)
 
 **Studied and practiced:**
-  - Practiced Exception handling
   - Practiced 5 scenario based questions
   - Code committed and pushed to GitHub
 
 **Code Link:**
-[Exception-handling](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/exceptionhandling)
 
 [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1)
 ---
-### Day 9 – Regex
+### Day 9 – Scenario Based Questions
 
 (**Date: 24-Jan-2026**)
 
 **Studied and practiced:**
-  - Practiced Regex questions
   - Practiced 5 scenario based questions
   - Code committed and pushed to GitHub
 
 **Code Link:**
-[Regex](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/regex)
 
 [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day2)
 ---
