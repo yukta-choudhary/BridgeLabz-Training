@@ -665,7 +665,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 18 –  Scenario based questions
+### Day 18 –  Java Streams
 
 (**Date: 19-Jan-2026**)
 
@@ -680,28 +680,31 @@ Scenario-Based Programs
 - [Streams] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
 
 ---
-### Day 19 –  Scenario based questions
+### Day 19 –  Exception Handling
 
 (**Date: 20-Jan-2026**)
 
 - Solved 3 scenario based questions on DSA
-- Studied and practiced Java streams
+- Studied and practiced Exception Handling
 - code pushed and committed to github
 
 **Code Links:**
 - [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day7)
 - [OOPS-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenario/src/com/day12)
-- [Streams] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
+- [Exception-Handling] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/exceptionhandling)
 
 ---
-### Day 20 –  Scenario based questions
+### Day 20 –  Regex & J
 
 (**Date: 21-Jan-2026**)
 
 - Solved 3 scenario based questions on Binary Search Trees
+- Studied and practiced Regex and Junit
 - code pushed and committed to github
 
 **Code Links:**
 - [DSA-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenario/src/com/day8)
+- [Regex] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/regex)
+- [JUnit] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/junit)
 
 ---
