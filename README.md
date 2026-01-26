@@ -722,3 +722,18 @@ Scenario-Based Programs
 - [Reflections] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/reflections)
 
 ---
+# Week 5: Java IOStreams
+---
+### Day 22 – CSV Data Handling
+
+(**Date: 23-Jan-2026**)
+
+- Solved 5 scenario based questions on Collections
+- Studied and practiced CSV Data handling
+- code pushed and committed to github
+
+**Code Links:**
+- [Collections-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1)
+- [CSV-Data-handling] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/annotations)
+
+---
