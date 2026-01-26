@@ -10,7 +10,8 @@ BridgeLabz-Training/
 │   │   ├── generics/
 │   │   ├── collections/
 │   │   ├── streams/
-│   │   └── exceptionhandling/
+│   │   ├── exceptionhandling/
+│   │   └── regex/
 │   │
 │   └── scenario-based/
 │
@@ -58,7 +59,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 4 – Java Collections
+### Day 4 – Java Streams
 
 (**Date: 19-Jan-2026**)
 
@@ -70,7 +71,7 @@ BridgeLabz-Training/
 [Streams](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
 
 ---
-### Day 5 – Java Collections
+### Day 5 – Java Streams
 
 (**Date: 20-Jan-2026**)
 
@@ -83,7 +84,7 @@ BridgeLabz-Training/
 
 ---
 
-### Day 6 – Java Collections
+### Day 6 – Java Streams
 
 (**Date: 21-Jan-2026**)
 
@@ -95,7 +96,7 @@ BridgeLabz-Training/
 [Streams](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
 
 ---
-### Day 7 – Java Collections
+### Day 7 – Java Exception handling
 
 (**Date: 23-Jan-2026**)
 
@@ -107,5 +108,19 @@ BridgeLabz-Training/
 **Code Link:**
 [Exception-handling](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/exceptionhandling)
 
-[Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1g)
+[Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1)
+---
+### Day 8 – Regex
+
+(**Date: 24-Jan-2026**)
+
+**Studied and practiced:**
+  - Practiced Regex questions
+  - Practiced 5 scenario based questions
+  - Code committed and pushed to GitHub
+
+**Code Link:**
+[Regex](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/regex)
+
+[Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day2)
 ---
