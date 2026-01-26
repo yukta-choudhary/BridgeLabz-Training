@@ -96,7 +96,20 @@ BridgeLabz-Training/
 [Streams](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
 
 ---
-### Day 7 – Java Exception handling
+### Day 7 – Annotations and Reflections
+
+(**Date: 22-Jan-2026**)
+
+**Studied and practiced:**
+  - Studied and practiced Annotations and reflections
+  - Code committed and pushed to GitHub
+
+**Code Link:**
+[Annotations](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/annotations)
+[Reflections](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/reflections)
+
+---
+### Day 8 – Java Exception handling
 
 (**Date: 23-Jan-2026**)
 
@@ -110,7 +123,7 @@ BridgeLabz-Training/
 
 [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1)
 ---
-### Day 8 – Regex
+### Day 9 – Regex
 
 (**Date: 24-Jan-2026**)
 
