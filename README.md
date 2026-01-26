@@ -733,7 +733,20 @@ Scenario-Based Programs
 - code pushed and committed to github
 
 **Code Links:**
+- [Collections-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day2)
+- [CSV-Data-handling] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdatahandling)
+
+---
+### Day 23 – JSON Data
+
+(**Date: 24-Jan-2026**)
+
+- Solved 5 scenario based questions on Collections
+- Studied and practiced JSON Data
+- code pushed and committed to github
+
+**Code Links:**
 - [Collections-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1)
-- [CSV-Data-handling] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/annotations)
+- [JSON-Data] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
 
 ---
