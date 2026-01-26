@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class ExtractEmail {
+public class extractemail {
     public static void main(String[] args) {
 
         // Create Scanner object
