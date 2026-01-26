@@ -27,3 +27,6 @@ target/
 .DS_Store
 
 Thumbs.db
+
+# Ignore all generated CSVs
+data/output/
