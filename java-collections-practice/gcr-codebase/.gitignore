@@ -27,3 +27,7 @@ target/
 .DS_Store
 
 Thumbs.db
+
+# maven project file
+
+pom.xml
