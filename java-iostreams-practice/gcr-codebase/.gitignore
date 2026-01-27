@@ -30,3 +30,6 @@ Thumbs.db
 
 # Ignore all generated CSVs
 data/output/
+
+# Ignore maven config file
+pom.xml
