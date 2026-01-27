@@ -2,7 +2,7 @@
 
 This repository documents my **day-wise learning progress** during the BridgeLabz Core Java training program.
 
-### Day 1 – CSV Data Handling
+### Day 1 – CSV Data Handling & JSON
 
 (**Date: 23-Jan-2026**)
 
@@ -13,9 +13,11 @@ This repository documents my **day-wise learning progress** during the BridgeLab
   - Writing CSV Files
   - Parsing CSV Data
   - Data Validation
+- Studied and practiced JSON
 - code pushed and committed to github
 
 **Code Links:**
 - [CSV-Data-Handling] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdatahandling)
+- [JSON] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/json)
 
 ---
