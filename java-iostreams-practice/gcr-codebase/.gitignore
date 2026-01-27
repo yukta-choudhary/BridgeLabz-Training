@@ -1,20 +1,16 @@
-<<<<<<< Updated upstream
 # Eclipse specific files
-/.metadata/
 
-.settings/
+.metadata/
 
-.classpath
+/IOStreamsConcepts/.settings/
 
-.project
+/IOStreamsConcepts/.classpath
 
-# JPMS
-
-**/module-info.java
+/IOStreamsConcepts/.project
 
 # Java build output
 
-bin/
+/IOStreamsConcepts/bin/
 
 target/
 
@@ -28,6 +24,9 @@ target/
 
 Thumbs.db
 
+/IOStreamsConcepts/.gitignore
+
+isko iss se replace kar do sahi ho jaayega
 # Ignore all generated CSVs
 data/output/
 
