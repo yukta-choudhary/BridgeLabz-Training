@@ -724,7 +724,7 @@ Scenario-Based Programs
 ---
 # Week 5: Java IOStreams
 ---
-### Day 34 – CSV Data Handling
+### Day 34 – CSV Data Handling & JSON Data
 
 (**Date: 23-Jan-2026**)
 
@@ -747,6 +747,6 @@ Scenario-Based Programs
 
 **Code Links:**
 - [Collections-Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1)
-- [JSON-Data] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+- [JSON] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/json)
 
 ---
