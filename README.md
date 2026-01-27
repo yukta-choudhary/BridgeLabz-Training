@@ -469,7 +469,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 16 – Stack and Queue, Hash function and Hashmap
+### Day 17 – Stack and Queue, Hash function and Hashmap
 
 (**Date: 3-Jan-2026**)
 
@@ -492,7 +492,7 @@ Scenario-Based Programs
 ---
 
 
-### Day 17 – Data Structure - Sorting Algorithms
+### Day 18 – Data Structure - Sorting Algorithms
 
 (**Date: 5-Jan-2026**)
 
@@ -512,7 +512,7 @@ Scenario-Based Programs
 
 
 ---
-### Day 18 – Data Structure - Linear, Binary Search, StringBuilder, StringBuffer, FileReader, InputStreamReader
+### Day 19 – Data Structure - Linear, Binary Search, StringBuilder, StringBuffer, FileReader, InputStreamReader
 
 (**Date: 6-Jan-2026**)
 
@@ -534,7 +534,7 @@ Scenario-Based Programs
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
-### Day 19 –  Algorithm's Runtime Analysis & Big-O Notation
+### Day 20 –  Algorithm's Runtime Analysis & Big-O Notation
 
 (**Date: 7-Jan-2026**)
 
@@ -550,7 +550,7 @@ Scenario-Based Programs
 - [LeetCode Codebase](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
 ---
-### Day 20 –  Algorithm's Runtime Analysis & Big-O Notation
+### Day 21 –  Algorithm's Runtime Analysis & Big-O Notation
 
 (**Date: 8-Jan-2026**)
 
@@ -567,7 +567,7 @@ Scenario-Based Programs
 
 
 ---
-### Day 21 –  Scenario based and leetcode questions
+### Day 22 –  Scenario based and leetcode questions
 
 (**Date: 9-Jan-2026**)
 
@@ -580,7 +580,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 22 –  Scenario based and leetcode questions
+### Day 23 –  Scenario based and leetcode questions
 
 (**Date: 10-Jan-2026**)
 
@@ -593,7 +593,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 23 –  Scenario based questions
+### Day 24 –  Scenario based questions
 
 (**Date: 12-Jan-2026**)
 
@@ -606,7 +606,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 24 –  Scenario based questions
+### Day 25 –  Scenario based questions
 
 (**Date: 13-Jan-2026**)
 
@@ -621,7 +621,7 @@ Scenario-Based Programs
 
 # Week 4: Java Collections, Streams
 ---
-### Day 25 –  Scenario based questions
+### Day 26 –  Scenario based questions
 
 (**Date: 15-Jan-2026**)
 
@@ -634,7 +634,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 26 –  Scenario based questions
+### Day 27 –  Scenario based questions
 
 (**Date: 16-Jan-2026**)
 
@@ -649,7 +649,7 @@ Scenario-Based Programs
 - [Collections] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/collections)
 
 ---
-### Day 17 –  Scenario based questions
+### Day 29 –  Scenario based questions
 
 (**Date: 17-Jan-2026**)
 
@@ -665,7 +665,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 18 –  Java Streams
+### Day 30 –  Java Streams
 
 (**Date: 19-Jan-2026**)
 
@@ -680,7 +680,7 @@ Scenario-Based Programs
 - [Streams] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/streams)
 
 ---
-### Day 19 –  Exception Handling
+### Day 31 –  Exception Handling
 
 (**Date: 20-Jan-2026**)
 
@@ -694,7 +694,7 @@ Scenario-Based Programs
 - [Exception-Handling] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/exceptionhandling)
 
 ---
-### Day 20 –  Regex & JUnit
+### Day 32 –  Regex & JUnit
 
 (**Date: 21-Jan-2026**)
 
@@ -708,7 +708,7 @@ Scenario-Based Programs
 - [JUnit] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/CollectionConcepts/src/com/junit)
 
 ---
-### Day 21 – Annotations and Reflections
+### Day 33 – Annotations and Reflections
 
 (**Date: 22-Jan-2026**)
 
@@ -724,7 +724,7 @@ Scenario-Based Programs
 ---
 # Week 5: Java IOStreams
 ---
-### Day 22 – CSV Data Handling
+### Day 34 – CSV Data Handling
 
 (**Date: 23-Jan-2026**)
 
@@ -737,7 +737,7 @@ Scenario-Based Programs
 - [CSV-Data-handling] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdatahandling)
 
 ---
-### Day 23 – JSON Data
+### Day 35 – JSON Data
 
 (**Date: 24-Jan-2026**)
 
