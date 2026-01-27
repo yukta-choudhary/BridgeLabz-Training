@@ -122,8 +122,8 @@ BridgeLabz-Training/
   - Code committed and pushed to GitHub
 
 **Code Link:**
-
 [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day1)
+
 ---
 ### Day 9 – Scenario Based Questions
 
@@ -134,6 +134,6 @@ BridgeLabz-Training/
   - Code committed and pushed to GitHub
 
 **Code Link:**
-
 [Scenario-based](https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenario/src/com/day2)
+
 ---
