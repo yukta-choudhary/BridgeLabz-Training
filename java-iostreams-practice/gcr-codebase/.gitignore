@@ -26,7 +26,6 @@ Thumbs.db
 
 /IOStreamsConcepts/.gitignore
 
-isko iss se replace kar do sahi ho jaayega
 # Ignore all generated CSVs
 data/output/
 
