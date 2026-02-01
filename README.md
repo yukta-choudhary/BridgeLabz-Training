@@ -22,3 +22,26 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 
 ---
+### Day 2 – Collectors, Stream API & Workshop
+
+(**Date: 28-Jan-2026**)
+
+**Topics Covered:**
+- Studied and practiced Collectors, Stream API & Workshop
+  - Intermediate operations 
+  - Terminal operations
+  - Stateless vs stateful operations
+  - Ordered vs unordered streams
+  - Parallel streams
+  - forEach() — Iterable vs Stream
+  - Collectors
+  - Workshop - Smart City Transport & Service Management System
+- code pushed and committed to github
+
+**Code Links:**
+- [Collectors] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/collectors)
+- [Stream-API] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/streamapi)
+- [Workshop] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/smartcityworkshop)
+
+
+---
