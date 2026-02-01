@@ -750,3 +750,27 @@ Scenario-Based Programs
 - [JSON] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/json)
 
 ---
+# Week 6: Java8 Features
+---
+### Day 35 – Lambda Expression & Functional Interfaces 
+
+(**Date: 27-Jan-2026**)
+
+**Topics Covered:**
+- Studied and practiced Lambda Expressios and Functional Interfaces
+  - Lambda Expressions
+  - Method References
+  - Parsing CSV Data
+  - Defining and Implementing Interfaces (Best Practices)
+  - Functional Interfaces
+  - Default and Static Methods in Interfaces
+  - Marker Interfaces
+- Practiced 7 scenario based questions based on lamda expressions and stream API
+- code pushed and committed to github
+
+**Code Links:**
+- [Lambda-Expressions] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/lambdaexpression)
+- [Functional-Interfaces] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/functionalinterfaces)
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/java8Scenario/src/com/day1)
+
+---
