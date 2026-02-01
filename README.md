@@ -14,12 +14,13 @@ This repository documents my **day-wise learning progress** during the BridgeLab
   - Functional Interfaces
   - Default and Static Methods in Interfaces
   - Marker Interfaces
+- Practiced 7 scenario based questions based on lamda expressions and stream API
 - code pushed and committed to github
 
 **Code Links:**
 - [Lambda-Expressions] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/lambdaexpression)
 - [Functional-Interfaces] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/functionalinterfaces)
-
+- [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/java8Scenario/src/com/day1)
 
 ---
 ### Day 2 – Collectors, Stream API & Workshop
