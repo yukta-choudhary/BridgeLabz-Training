@@ -14,3 +14,15 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 
 
 ---
+### Day 2 – Multithreading
+(**Date: 2-Feb-2026**)
+
+**Topics Covered:**
+- Studied and practiced Multithreading
+- code pushed and committed to github
+
+**Code Links:**
+- [Multithreading] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/designPatternConcept/src/com/librarymanagementsystem)
+
+
+---
