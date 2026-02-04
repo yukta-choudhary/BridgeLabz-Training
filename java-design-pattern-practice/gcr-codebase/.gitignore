@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/designPatternConcepts/.settings/
+
+/designPatternConcepts/.classpath
+
+/designPatternConcepts/.project
+
+# Java build output
+
+/designPatternConcepts/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/designPatternConcepts/.gitignore
