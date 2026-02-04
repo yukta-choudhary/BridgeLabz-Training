@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/java8Scenario/.settings/
+
+/java8Scenario/.classpath
+
+/java8Scenario/.project
+
+# Java build output
+
+/java8Scenario/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/java8Scenario/.gitignore
