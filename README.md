@@ -38,6 +38,24 @@ BridgeLabz-Training/
 │   └── leet-code-codebase/
 │   └── scenario-based/
 │
+│── dsa-practice/
+│
+│
+│── java-oops-practice/
+│
+│
+│── java-collections-practice/
+│
+│
+│── java-iostreams-practice/
+│
+│
+│── java8-programming-practice/
+│
+│
+│── java-design-pattern-practice/
+│
+│
 └── README.md
 ```
 ---
