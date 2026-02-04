@@ -820,16 +820,18 @@ Scenario-Based Programs
 ---
 # Week 7: Solution Designing & MultiThreading
 ----
-### Day 38 – Design Principles and Design Patterns
+### Day 38 – Design Principles, Design Patterns  & Logical Questions
 (**Date: 31-Jan-2026**)
 
 **Topics Covered:**
 - Studied and practiced SOLID design principles and design patterns
+- Practiced java8 Logical Questions
 - Practiced Case Study: Library Management System (LMS) with GoF Patterns
 - code pushed and committed to github
 
 **Code Links:**
 - [Case-Study] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/designPatternConcept/src/com/librarymanagementsystem)
+- [Logical-Questions] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/logical-based/java8Logical/src/com)
 
 ---
 ### Day 39 – Multithreading
