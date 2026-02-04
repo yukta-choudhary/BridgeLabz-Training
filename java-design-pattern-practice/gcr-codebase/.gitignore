@@ -2,15 +2,15 @@
 
 .metadata/
 
-/designPatternConcepts/.settings/
+/designPatternConcept/.settings/
 
-/designPatternConcepts/.classpath
+/designPatternConcept/.classpath
 
-/designPatternConcepts/.project
+/designPatternConcept/.project
 
 # Java build output
 
-/designPatternConcepts/bin/
+/designPatternConcept/bin/
 
 target/
 
@@ -24,4 +24,4 @@ target/
 
 Thumbs.db
 
-/designPatternConcepts/.gitignore
+/designPatternConcept/.gitignore
