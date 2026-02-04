@@ -3,14 +3,19 @@
 .metadata/
 
 /designPatternConcept/.settings/
+/multithreadingConcept/.settings/
+
 
 /designPatternConcept/.classpath
+/multithreadingConcept/.classpath
 
 /designPatternConcept/.project
+/multithreadingConcept/.project
 
 # Java build output
 
 /designPatternConcept/bin/
+/multithreadingConcept/bin/
 
 target/
 
@@ -25,3 +30,4 @@ target/
 Thumbs.db
 
 /designPatternConcept/.gitignore
+/multithreadingConcept/.gitignore
