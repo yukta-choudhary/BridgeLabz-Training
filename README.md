@@ -46,5 +46,17 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 - [Workshop] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/smartcityworkshop)
 - [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/java8Scenario/src/com/day2)
 
+---
+### Day 3 – LogicalQues
+
+(**Date: 31-Jan-2026**)
+
+**Topics Covered:**
+- Studied and practiced logical questions of java8
+- code pushed and committed to github
+
+**Code Links:**
+- [Logical-Questions] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/logical-based/java8Logical/src/com)
+
 
 ---
