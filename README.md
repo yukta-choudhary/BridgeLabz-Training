@@ -22,7 +22,7 @@ This repository documents my **day-wise learning progress** during the BridgeLab
 - code pushed and committed to github
 
 **Code Links:**
-- [Multithreading] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/designPatternConcept/src/com/librarymanagementsystem)
+- [Multithreading] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/multithreadingConcept/src/com/multithreading)
 
 
 ---
