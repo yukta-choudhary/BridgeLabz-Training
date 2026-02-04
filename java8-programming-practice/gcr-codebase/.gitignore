@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/java8Concepts/.settings/
+
+/java8Concepts/.classpath
+
+/java8Concepts/.project
+
+# Java build output
+
+/java8Concepts/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/java8Concepts/.gitignore
