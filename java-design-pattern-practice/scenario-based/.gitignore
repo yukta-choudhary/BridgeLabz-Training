@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/multithreadingScenario/.settings/
+
+/multithreadingScenario/.classpath
+
+/multithreadingScenario/.project
+
+# Java build output
+
+/multithreadingScenario/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/multithreadingScenario/.gitignore
