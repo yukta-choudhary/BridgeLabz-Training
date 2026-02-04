@@ -832,3 +832,15 @@ Scenario-Based Programs
 - [Case-Study] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/designPatternConcept/src/com/librarymanagementsystem)
 
 ---
+### Day 39 – Multithreading
+(**Date: 2-Feb-2026**)
+
+**Topics Covered:**
+- Studied and practiced Multithreading
+- code pushed and committed to github
+
+**Code Links:**
+- [Multithreading] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/multithreadingConcept/src/com/multithreading)
+
+
+---
