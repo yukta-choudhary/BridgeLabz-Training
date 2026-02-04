@@ -770,7 +770,7 @@ Scenario-Based Programs
 ---
 # Week 6: Java8 Features
 ---
-### Day 35 – Lambda Expression & Functional Interfaces 
+### Day 36 – Lambda Expression & Functional Interfaces 
 
 (**Date: 27-Jan-2026**)
 
@@ -793,7 +793,7 @@ Scenario-Based Programs
 
 ---
 
-### Day 36 – Collectors, Stream API & Workshop
+### Day 37 – Collectors, Stream API & Workshop
 
 (**Date: 28-Jan-2026**)
 
@@ -816,5 +816,19 @@ Scenario-Based Programs
 - [Workshop] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8Concepts/src/com/smartcityworkshop)
 - [Scenario-based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based/java8Scenario/src/com/day2)
 
+
+---
+# Week 7: Solution Designing & MultiThreading
+----
+### Day 38 – Design Principles and Design Patterns
+(**Date: 31-Jan-2026**)
+
+**Topics Covered:**
+- Studied and practiced SOLID design principles and design patterns
+- Practiced Case Study: Library Management System (LMS) with GoF Patterns
+- code pushed and committed to github
+
+**Code Links:**
+- [Case-Study] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/designPatternConcept/src/com/librarymanagementsystem)
 
 ---
