@@ -846,3 +846,16 @@ Scenario-Based Programs
 
 
 ---
+
+### Day 40 – Multithreading
+(**Date: 3-Feb-2026**)
+
+**Topics Covered:**
+- Studied and practiced Multithreading Scenario - Banking Transactions
+- code pushed and committed to github
+
+**Code Links:**
+- [Multithreading-Scenario-Based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based/multithreadingScenario/src/com/day1/banktransactions)
+
+
+---
