@@ -1,0 +1,93 @@
+/*
+	Exercise 1: Simple CRUD Application
+	Create a console-based Employee Management System with:
+	• Add employee
+	• View all employees
+	• Update employee salary
+	• Delete employee
+	• Search employee by name
+*/
+
+CREATE DATABASE Employee_Management_System_Db;
+
+USE Employee_Management_System_Db;
+
+ CREATE TABLE Employee(
+ 	Emp_Id INT AUTO_INCREMENT PRIMARY KEY,
+ 	Emp_Name VARCHAR(30) NOT NULL, 
+ 	Department VARCHAR(30) NOT NULL,
+ 	Emp_Salary DECIMAL(10,2)
+ );
+ 
+ 
+//Add Employee
+
+ INSERT INTO Employee (Emp_Name, Department, Emp_Salary) 
+ VALUES ('John Doe', 'HR', 10000),
+ 		 ('Will Byers', 'IT', 40000), 
+ 		 ('Nancy Wheeler', 'Marketing', 35000);
+
+
+//View all employees
+
+SELECT * FROM Employee;
+
+/*OUTPUT
+
++--------+---------------+------------+------------+
+| Emp_Id | Emp_Name      | Department | Emp_Salary |
++--------+---------------+------------+------------+
+|      1 | John Doe      | HR         |   10000.00 |
+|      2 | Will Byers    | IT         |   40000.00 |
+|      3 | Nancy Wheeler | Marketing  |   35000.00 |
++--------+---------------+------------+------------+
+*/
+
+//Update employee salary
+
+ UPDATE Employee
+ SET Emp_Salary = 20000 
+ WHERE Emp_Name = 'John Doe';
+
+SELECT * FROM Employee;
+
+/*OUTPUT
+
++--------+---------------+------------+------------+
+| Emp_Id | Emp_Name      | Department | Emp_Salary |
++--------+---------------+------------+------------+
+|      1 | John Doe      | HR         |   20000.00 |
+|      2 | Will Byers    | IT         |   40000.00 |
+|      3 | Nancy Wheeler | Marketing  |   35000.00 |
++--------+---------------+------------+------------+
+*/
+
+//Delete employee
+
+DELETE FROM Employee
+WHERE Emp_Name = 'Will Byers';	 
+
+SELECT * FROM Employee;
+
+/* OUTPUT
++--------+---------------+------------+------------+
+| Emp_Id | Emp_Name      | Department | Emp_Salary |
++--------+---------------+------------+------------+
+|      1 | John Doe      | HR         |   20000.00 |
+|      3 | Nancy Wheeler | Marketing  |   35000.00 |
++--------+---------------+------------+------------+
+*/
+
+//Search employee by name
+SELECT * 
+FROM Employee
+WHERE Emp_Name = 'Nancy Wheeler';
+
+/* OUTPUT
++--------+---------------+------------+------------+
+| Emp_Id | Emp_Name      | Department | Emp_Salary |
++--------+---------------+------------+------------+
+|      3 | Nancy Wheeler | Marketing  |   35000.00 |
++--------+---------------+------------+------------+	
+*/
+
