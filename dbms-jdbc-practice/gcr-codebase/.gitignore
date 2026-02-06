@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/dbmsConcept/.settings/
+
+/dbmsConcept/.classpath
+
+/dbmsConcept/.project
+
+# Java build output
+
+/dbmsConcept/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/dbmsConcept/.gitignore
