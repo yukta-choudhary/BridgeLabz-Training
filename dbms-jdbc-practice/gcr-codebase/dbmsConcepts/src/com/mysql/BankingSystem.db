@@ -1,0 +1,84 @@
+/*
+	Exercise 2: Transaction Management
+	Implement a banking system with:
+	• Transfer money between accounts (use transactions)
+	• Check balance
+	• Transaction history
+*/
+
+CREATE DATABASE banking_system;
+ 
+USE banking_system;
+ 
+CREATE TABLE accounts (
+    account_id INT PRIMARY KEY AUTO_INCREMENT,
+    account_holder VARCHAR(100),
+    balance DECIMAL(10,2) NOT NULL
+);
+ 
+CREATE TABLE transactions (
+    transaction_id INT PRIMARY KEY AUTO_INCREMENT,
+    from_account INT,
+    to_account INT,
+    amount DECIMAL(10,2),
+    transaction_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+INSERT INTO accounts (account_holder, balance)
+VALUES
+('Alice', 5000.00),
+('Bob', 3000.00);
+
+SELECT * FROM accounts;
+
+/*
++------------+----------------+---------+
+| account_id | account_holder | balance |
++------------+----------------+---------+
+|          1 | Alice          | 5000.00 |
+|          2 | Bob            | 3000.00 |
++------------+----------------+---------+
+*/
+
+//Transfer Money Between Accounts
+
+START TRANSACTION;
+
+UPDATE accounts
+SET balance = balance - 1000
+WHERE account_id = 1;
+
+UPDATE accounts
+SET balance = balance + 1000
+WHERE account_id = 2;
+
+INSERT INTO transactions (from_account, to_account, amount)
+VALUES (1, 2, 1000);
+
+COMMIT;
+
+//View Transaction History
+
+SELECT * FROM transactions;
+
+/*
++----------------+--------------+------------+---------+---------------------+
+| transaction_id | from_account | to_account | amount  | transaction_date    |
++----------------+--------------+------------+---------+---------------------+
+|              1 |            1 |          2 | 1000.00 | 2026-02-08 21:14:38 |
++----------------+--------------+------------+---------+---------------------+
+*/
+
+//Balance Check
+
+SELECT account_holder, balance FROM accounts;
+
+/*
++----------------+---------+
+| account_holder | balance |
++----------------+---------+
+| Alice          | 4000.00 |
+| Bob            | 4000.00 |
++----------------+---------+
+*/
