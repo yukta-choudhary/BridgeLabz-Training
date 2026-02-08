@@ -2,15 +2,15 @@
 
 .metadata/
 
-/dbmsConcept/.settings/
+/dbmsConcepts/.settings/
 
-/dbmsConcept/.classpath
+/dbmsConcepts/.classpath
 
-/dbmsConcept/.project
+/dbmsConcepts/.project
 
 # Java build output
 
-/dbmsConcept/bin/
+/dbmsConcepts/bin/
 
 target/
 
@@ -24,4 +24,4 @@ target/
 
 Thumbs.db
 
-/dbmsConcept/.gitignore
+/dbmsConcepts/.gitignore
