@@ -13,3 +13,20 @@
 - [MySQL] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase)
 
 ---
+### Day 2 –  MySQL Scenario Based questions
+
+(**Date: 7-Feb-2026**)
+
+- Studied and Practiced questions 6 scenario based questions on the topic MySQL
+  - Patient Management
+  - Doctor Management
+  - Appointment Scheduling
+  - Visit Management & Medical Records
+  - Billing & Payments
+  - System Administration
+- Commands documented and pushed to github
+
+**Code Links:**
+- [Scenario-Based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/dbmsScenario/src/com/mysqlpractice)
+
+---
