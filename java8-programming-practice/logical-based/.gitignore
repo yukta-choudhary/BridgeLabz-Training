@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/java8Logical/.settings/
+
+/java8Logical/.classpath
+
+/java8Logical/.project
+
+# Java build output
+
+/java8Logical/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/java8Logical/.gitignore
