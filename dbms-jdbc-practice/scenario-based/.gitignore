@@ -1,0 +1,27 @@
+# Eclipse specific files
+
+.metadata/
+
+/dbmsScenario/.settings/
+
+/dbmsScenario/.classpath
+
+/dbmsScenario/.project
+
+# Java build output
+
+/dbmsScenario/bin/
+
+target/
+
+# Logs
+
+*.log
+
+# OS generated files
+
+.DS_Store
+
+Thumbs.db
+
+/dbmsScenario/.gitignore
