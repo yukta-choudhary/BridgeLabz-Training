@@ -1,0 +1,157 @@
+/*
+    System Administration Module
+
+    UC-6.1: Manage Specialty Lookup
+    UC-6.2: Database Backup Trigger (Audit Logging)
+    UC-6.3: View System Audit Logs
+*/
+
+CREATE DATABASE system_admin_db;
+
+USE system_admin_db;
+
+CREATE TABLE specialties (
+    specialty_id INT PRIMARY KEY AUTO_INCREMENT,
+    specialty_name VARCHAR(100) UNIQUE NOT NULL
+);
+
+CREATE TABLE doctors (
+    doctor_id INT PRIMARY KEY AUTO_INCREMENT,
+    doctor_name VARCHAR(100),
+    specialty_id INT,
+    FOREIGN KEY (specialty_id) REFERENCES specialties(specialty_id)
+);
+
+CREATE TABLE audit_log (
+    audit_id INT PRIMARY KEY AUTO_INCREMENT,
+    action_type VARCHAR(10),
+    table_name VARCHAR(50),
+    record_id INT,
+    action_user VARCHAR(50),
+    action_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+--------------------------------------------------
+-- UC-6.1: Manage Specialty Lookup (CRUD Operations)
+--------------------------------------------------
+
+INSERT INTO specialties (specialty_name)
+VALUES ('Cardiology'), ('Orthopedics'), ('Dermatology');
+
+SELECT * FROM specialties;
+
+/*
++--------------+----------------+
+| specialty_id | specialty_name |
++--------------+----------------+
+|            1 | Cardiology     |
+|            3 | Dermatology    |
+|            2 | Orthopedics    |
++--------------+----------------+
+*/
+
+UPDATE specialties
+SET specialty_name = 'Nephrology'
+WHERE specialty_id = 3;
+
+SELECT COUNT(*) AS doctor_count
+FROM doctors
+WHERE specialty_id = 2;
+
+/*
++--------------+
+| doctor_count |
++--------------+
+|            0 |
++--------------+
+*/
+
+DELETE FROM specialties
+WHERE specialty_id = 2;
+
+--------------------------------------------------
+-- UC-6.2: Database Backup Trigger (Audit Logging)
+--------------------------------------------------
+
+CREATE TRIGGER trg_specialty_insert
+AFTER INSERT ON specialties
+FOR EACH ROW
+INSERT INTO audit_log (action_type, table_name, record_id, action_user)
+VALUES ('INSERT', 'specialties', NEW.specialty_id, USER());
+
+CREATE TRIGGER trg_specialty_update
+AFTER UPDATE ON specialties
+FOR EACH ROW
+INSERT INTO audit_log (action_type, table_name, record_id, action_user)
+VALUES ('UPDATE', 'specialties', NEW.specialty_id, USER());
+
+CREATE TRIGGER trg_specialty_delete
+AFTER DELETE ON specialties
+FOR EACH ROW
+INSERT INTO audit_log (action_type, table_name, record_id, action_user)
+VALUES ('DELETE', 'specialties', OLD.specialty_id, USER());
+
+INSERT INTO specialties (specialty_name)
+VALUES ('Neurology');
+
+UPDATE specialties
+SET specialty_name = 'Pediatrics'
+WHERE specialty_id = 1;
+
+--------------------------------------------------
+-- UC-6.3: View System Audit Logs
+--------------------------------------------------
+
+SELECT * FROM audit_log;
+
+/*
++----------+-------------+-------------+-----------+----------------+---------------------+
+| audit_id | action_type | table_name  | record_id | action_user    | action_time         |
++----------+-------------+-------------+-----------+----------------+---------------------+
+|        1 | INSERT      | specialties |         4 | root@localhost | 2026-02-08 23:14:30 |
+|        2 | UPDATE      | specialties |         1 | root@localhost | 2026-02-08 23:14:30 |
+|        3 | UPDATE      | specialties |         1 | root@localhost | 2026-02-08 23:14:46 |
++----------+-------------+-------------+-----------+----------------+---------------------+
+*/
+
+SELECT *
+FROM audit_log
+WHERE action_user LIKE '%root%';
+
+/*
++----------+-------------+-------------+-----------+----------------+---------------------+
+| audit_id | action_type | table_name  | record_id | action_user    | action_time         |
++----------+-------------+-------------+-----------+----------------+---------------------+
+|        1 | INSERT      | specialties |         4 | root@localhost | 2026-02-08 23:14:30 |
+|        2 | UPDATE      | specialties |         1 | root@localhost | 2026-02-08 23:14:30 |
+|        3 | UPDATE      | specialties |         1 | root@localhost | 2026-02-08 23:14:46 |
++----------+-------------+-------------+-----------+----------------+---------------------+
+*/
+
+SELECT *
+FROM audit_log
+WHERE table_name = 'specialties';
+
+/*
++----------+-------------+-------------+-----------+----------------+---------------------+
+| audit_id | action_type | table_name  | record_id | action_user    | action_time         |
++----------+-------------+-------------+-----------+----------------+---------------------+
+|        1 | INSERT      | specialties |         4 | root@localhost | 2026-02-08 23:14:30 |
+|        2 | UPDATE      | specialties |         1 | root@localhost | 2026-02-08 23:14:30 |
+|        3 | UPDATE      | specialties |         1 | root@localhost | 2026-02-08 23:14:46 |
++----------+-------------+-------------+-----------+----------------+---------------------+
+*/
+
+SELECT *
+FROM audit_log
+WHERE action_type = 'UPDATE'
+AND action_time BETWEEN '2026-02-01' AND '2026-02-28';
+
+/*
++----------+-------------+-------------+-----------+----------------+---------------------+
+| audit_id | action_type | table_name  | record_id | action_user    | action_time         |
++----------+-------------+-------------+-----------+----------------+---------------------+
+|        2 | UPDATE      | specialties |         1 | root@localhost | 2026-02-08 23:14:30 |
+|        3 | UPDATE      | specialties |         1 | root@localhost | 2026-02-08 23:14:46 |
++----------+-------------+-------------+-----------+----------------+---------------------+
+*/
