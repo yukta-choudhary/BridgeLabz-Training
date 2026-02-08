@@ -1,0 +1,125 @@
+/*
+	Exercise 3: Advanced Features
+	Build a library management system with:
+	• Book inventory
+	• Student borrowing records
+	• Fine calculation
+	• Search functionality with multiple filters
+*/
+
+CREATE DATABASE library_db;
+
+USE library_db;
+
+CREATE TABLE books (
+    book_id INT PRIMARY KEY AUTO_INCREMENT,
+    title VARCHAR(200),
+    author VARCHAR(100),
+    category VARCHAR(100),
+    total_copies INT,
+    available_copies INT
+);
+
+CREATE TABLE students (
+    student_id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100),
+    course VARCHAR(50)
+);
+
+//Book Inventory Table
+
+CREATE TABLE borrow_records (
+    record_id INT PRIMARY KEY AUTO_INCREMENT,
+    student_id INT,
+    book_id INT,
+    borrow_date DATE,
+    return_date DATE,
+    fine DECIMAL(10,2) DEFAULT 0,
+    FOREIGN KEY (student_id) REFERENCES students(student_id),
+    FOREIGN KEY (book_id) REFERENCES books(book_id)
+);
+
+INSERT INTO books (title, author, category, total_copies, available_copies)
+VALUES
+('DBMS Concepts', 'Korth', 'Database', 5, 5),
+('Operating System', 'Galvin', 'OS', 3, 3),
+('Computer Networks', 'Tanenbaum', 'Networking', 4, 4);
+
+INSERT INTO students (name, course)
+VALUES
+('Rahul', 'BCA'),
+('Priya', 'B.Tech');
+
+//Borrow a Book (Transaction)
+
+START TRANSACTION;
+
+INSERT INTO borrow_records (student_id, book_id, borrow_date)
+VALUES (1, 1, CURDATE());
+
+UPDATE books
+SET available_copies = available_copies - 1
+WHERE book_id = 1;
+
+COMMIT;
+
+//Return Book & Fine Calculation
+
+UPDATE borrow_records
+SET return_date = CURDATE()
+WHERE record_id = 1;
+
+UPDATE borrow_records
+SET fine = 
+    IF(DATEDIFF(return_date, borrow_date) > 7,
+       (DATEDIFF(return_date, borrow_date) - 7) * 5,
+       0)
+WHERE record_id = 1;
+
+UPDATE books
+SET available_copies = available_copies + 1
+WHERE book_id = 1;
+
+//Search Functionality (Multiple Filters)
+
+SELECT * FROM books
+WHERE title LIKE '%System%'
+AND author LIKE '%Galvin%'
+AND category = 'OS';
+
+/*
++---------+------------------+--------+----------+--------------+------------------+
+| book_id | title            | author | category | total_copies | available_copies |
++---------+------------------+--------+----------+--------------+------------------+
+|       2 | Operating System | Galvin | OS       |            3 |                3 |
++---------+------------------+--------+----------+--------------+------------------+
+*/
+
+//View Borrow History
+
+SELECT s.name, b.title, br.borrow_date, br.return_date, br.fine
+FROM borrow_records br
+JOIN students s ON br.student_id = s.student_id
+JOIN books b ON br.book_id = b.book_id;
+
+/*
++-------+---------------+-------------+-------------+------+
+| name  | title         | borrow_date | return_date | fine |
++-------+---------------+-------------+-------------+------+
+| Rahul | DBMS Concepts | 2026-02-08  | 2026-02-08  | 0.00 |
++-------+---------------+-------------+-------------+------+
+*/
+
+//Check Book Inventory
+
+SELECT title, available_copies FROM books;
+
+/*
++-------------------+------------------+
+| title             | available_copies |
++-------------------+------------------+
+| DBMS Concepts     |                5 |
+| Operating System  |                3 |
+| Computer Networks |                4 |
++-------------------+------------------+
+*/
