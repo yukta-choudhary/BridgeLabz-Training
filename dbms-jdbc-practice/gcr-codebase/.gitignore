@@ -3,14 +3,18 @@
 .metadata/
 
 /dbmsConcepts/.settings/
+/jdbcConcepts/.settings/
 
 /dbmsConcepts/.classpath
+/jdbcConcepts/.classpath
 
 /dbmsConcepts/.project
+/jdbcConcepts/.project
 
 # Java build output
 
 /dbmsConcepts/bin/
+/jdbcConcepts/bin/
 
 target/
 
@@ -25,3 +29,7 @@ target/
 Thumbs.db
 
 /dbmsConcepts/.gitignore
+/jdbcConcepts/.gitignore
+
+# Maven Project file
+/jdbcConcepts/oom.xml
