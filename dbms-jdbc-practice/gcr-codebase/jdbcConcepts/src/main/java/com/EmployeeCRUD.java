@@ -17,7 +17,7 @@ public class EmployeeCRUD {
     // database details
     static String url = "jdbc:mysql://localhost:3306/Employee_Management_System_Db";
     static String user = "root";
-    static String password = "yukta@123"; // change as per your system
+    static String password = "yukta@123"; 
 
     public static void main(String[] args) {
 
