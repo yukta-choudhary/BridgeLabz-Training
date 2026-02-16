@@ -16,7 +16,7 @@ public class LibraryJDBC {
     // database details
     static String url = "jdbc:mysql://localhost:3306/library_db";
     static String user = "root";
-    static String password = "yukta@123"; 
+    static String password = "root"; 
 
     public static void main(String[] args) {
 
