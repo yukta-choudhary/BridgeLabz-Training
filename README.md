@@ -893,3 +893,17 @@ Scenario-Based Programs
 - [Scenario-Based] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/scenario-based/dbmsScenario/src/com/mysqlpractice)
 
 ---
+### Day 43 –  JDBC
+
+(**Date: 9-Feb-2026**)
+
+- Studied and Practiced questions JDBC
+  - Banking Management
+  - Employee Management
+  - Library Management
+- Commands documented and pushed to github
+
+**Code Links:**
+- [JdbcConcepts] (https://github.com/yukta-choudhary/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/jdbcConcepts/src/main/java/com)
+
+---
